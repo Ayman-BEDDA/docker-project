@@ -1,0 +1,33 @@
+Jan 02, 2023 11:24:00.995 [0x7fad89063b00] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Jan 02, 2023 11:24:00.996 [0x7fad89063b00] INFO - Linux version: 5.15.0-53-generic, language: en-US
+Jan 02, 2023 11:24:00.996 [0x7fad89063b00] INFO - Processor: 8-core Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+Jan 02, 2023 11:24:00.996 [0x7fad89063b00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 1
+Jan 02, 2023 11:24:00.996 [0x7fad8c9df140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 11:24:01.078 [0x7fad8c9df140] DEBUG - [MI] Opening input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:01.078 [0x7fad8c9df140] DEBUG - [FFMPEG] - Opening '/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4' for reading
+Jan 02, 2023 11:24:01.078 [0x7fad8c9df140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 420788
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Shifting DTS by 20 because of negative CTTS.
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 5754
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 1
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 729360 bytes read:40187 seeks:1 nb_streams:2
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.079 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:01.080 [0x7fad8c9df140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 43116 bytes read:105723 seeks:2 frames:43
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - [MI] Closing input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - Matcher: found 0 auxiliary files in "/movies" (single media: yes)
+Jan 02, 2023 11:24:01.082 [0x7fad8c9df140] DEBUG - Matcher: no sidecar subtitle files found for "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:01.083 [0x7fad8c9df140] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

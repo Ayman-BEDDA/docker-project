@@ -1,0 +1,38 @@
+Jan 02, 2023 11:23:59.665 [0x7f1991e8db00] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Jan 02, 2023 11:23:59.666 [0x7f1991e8db00] INFO - Linux version: 5.15.0-53-generic, language: en-US
+Jan 02, 2023 11:23:59.666 [0x7f1991e8db00] INFO - Processor: 8-core Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+Jan 02, 2023 11:23:59.666 [0x7f1991e8db00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --files /movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4
+Jan 02, 2023 11:23:59.666 [0x7f1995809140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 11:23:59.770 [0x7f1995809140] DEBUG - [MI] Opening input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:23:59.772 [0x7f1995809140] DEBUG - [FFMPEG] - Opening '/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4' for reading
+Jan 02, 2023 11:23:59.773 [0x7f1995809140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 11:23:59.776 [0x7f1995809140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 11:23:59.776 [0x7f1995809140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Jan 02, 2023 11:23:59.777 [0x7f1995809140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:23:59.777 [0x7f1995809140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 420788
+Jan 02, 2023 11:23:59.777 [0x7f1995809140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:23:59.778 [0x7f1995809140] DEBUG - [FFMPEG] - Shifting DTS by 20 because of negative CTTS.
+Jan 02, 2023 11:23:59.778 [0x7f1995809140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 5754
+Jan 02, 2023 11:23:59.778 [0x7f1995809140] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 1
+Jan 02, 2023 11:23:59.778 [0x7f1995809140] INFO - CodecManager: obtaining decoder 'h264'
+Jan 02, 2023 11:23:59.778 [0x7f1995809140] DEBUG - [HCl#1] HTTP requesting GET https://plex.tv/api/codecs/h264_decoder?build=linux-x86_64-standard&deviceId=f73e5621-8c41-43a3-b32d-efa321e704a0&oldestPreviousVersion=1%2E30%2E0%2E6486-629d58034&version=583b3e4-4434
+Jan 02, 2023 11:23:59.918 [0x7f1991590b00] DEBUG - [HttpClient/HCl#1] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/codecs/h264_decoder?build=linux-x86_64-standard&deviceId=f73e5621-8c41-43a3-b32d-efa321e704a0&oldestPreviousVersion=1%2E30%2E0%2E6486-629d58034&version=583b3e4-4434
+Jan 02, 2023 11:23:59.919 [0x7f19913bbb00] DEBUG - [GetFile/HCl#2] HTTP requesting GET https://downloads.plex.tv/codecs/583b3e4-4434/linux-x86_64-standard/libh264_decoder.so
+Jan 02, 2023 11:24:00.423 [0x7f1991590b00] DEBUG - [HttpClient/HCl#2] HTTP/2.0 (0.5s) 200 response from GET https://downloads.plex.tv/codecs/583b3e4-4434/linux-x86_64-standard/libh264_decoder.so
+Jan 02, 2023 11:24:00.445 [0x7f1995809140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 729360 bytes read:40187 seeks:1 nb_streams:2
+Jan 02, 2023 11:24:00.449 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.449 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.450 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.450 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.451 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Jan 02, 2023 11:24:00.451 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.451 [0x7f1995809140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.452 [0x7f1995809140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.458 [0x7f1995809140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 11:24:00.459 [0x7f1995809140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 43116 bytes read:105723 seeks:2 frames:43
+Jan 02, 2023 11:24:00.461 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.461 [0x7f1995809140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.461 [0x7f1995809140] DEBUG - [MI] Closing input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.462 [0x7f1995809140] DEBUG - Matcher: found 0 auxiliary files in "/movies" (single media: yes)
+Jan 02, 2023 11:24:00.462 [0x7f1995809140] DEBUG - Matcher: no sidecar subtitle files found for "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.464 [0x7f1995809140] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

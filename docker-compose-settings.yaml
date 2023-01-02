@@ -1,0 +1,100 @@
+version: '2.1'
+services:
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ${RADARR_CONFIG}:/config
+      - /home/ayman/Documents/new_projet_docker/radarr/movies:/movies
+      - /home/ayman/Documents/new_projet_docker/radarr/downloads:/downloads
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+    networks:
+      - plex_network
+
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ${SONARR_CONFIG}:/config
+      - /home/ayman/Documents/new_projet_docker/sonarr/tvseries:/tv
+      - /home/ayman/Documents/new_projet_docker/sonarr/downloads:/downloads
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+    networks:
+      - plex_network
+
+
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:latest
+    container_name: bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ${BAZARR_CONFIG}:/config
+      - /home/ayman/Documents/new_projet_docker/bazarr/movies:/movies
+      - /home/ayman/Documents/new_projet_docker/bazarr/tv:/tv
+    ports:
+      - 6767:6767
+    restart: unless-stopped
+    networks:
+      - plex_network
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:develop
+    container_name: prowlarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ${PROWLARR_CONFIG}:/config
+    ports:
+      - 9696:9696
+    restart: unless-stopped
+    networks:
+      - plex_network
+
+
+
+  swag:
+    image: lscr.io/linuxserver/swag
+    container_name: swag
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+      - URL=projet-ayman.duckdns.org
+      - SUBDOMAINS=wildcard
+      - VALIDATION=duckdns
+      - DUCKDNSTOKEN=53dcaf44-59ef-4ffa-84ad-a456d7e1ca45
+
+    volumes:
+      - ${SWAG_CONFIG}:/config
+    ports:
+      - 443:443
+    restart: unless-stopped
+    networks:
+      - plex_network
+
+networks:
+  plex_network:
+    external: true
+
+
+    

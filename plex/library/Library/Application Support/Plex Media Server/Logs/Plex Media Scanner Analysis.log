@@ -1,0 +1,132 @@
+Jan 02, 2023 11:24:00.806 [0x7fcf3bd0bb00] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Jan 02, 2023 11:24:00.806 [0x7fcf3bd0bb00] INFO - Linux version: 5.15.0-53-generic, language: en-US
+Jan 02, 2023 11:24:00.806 [0x7fcf3bd0bb00] INFO - Processor: 8-core Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+Jan 02, 2023 11:24:00.806 [0x7fcf3bd0bb00] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 1
+Jan 02, 2023 11:24:00.807 [0x7fcf3f687140] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 11:24:00.891 [0x7fcf3f687140] DEBUG - Analyzing media parts for item 1 (V09044g40000ceaco0jc77u4j0t58bh0): 1
+Jan 02, 2023 11:24:00.892 [0x7fcf3f687140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.892 [0x7fcf3f687140] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.893 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.893 [0x7fcf3f687140] DEBUG - Updating metadata item (save) (V09044g40000ceaco0jc77u4j0t58bh0) with ID 1
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [ID 1] Media part analysis: /movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [MI] Opening input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Opening '/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4' for reading
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 420788
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Shifting DTS by 20 because of negative CTTS.
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 5754
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 1
+Jan 02, 2023 11:24:00.895 [0x7fcf3f687140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 729360 bytes read:40187 seeks:1 nb_streams:2
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.896 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.897 [0x7fcf3f687140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 43116 bytes read:105723 seeks:2 frames:43
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - [MI] Opening "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4" for MP4 atom parsing
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 20 at offset 0
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Skipping wide atom of size 8 at offset 20
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Skipping mdat atom of size 721913 at offset 28
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found moov atom of size 7419 at offset 721941
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found trak atom of size 2546 at offset 722057
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found trak atom of size 4598 at offset 724603
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found mdia atom of size 2396 at offset 722207
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found minf atom of size 2307 at offset 722296
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found stbl atom of size 2191 at offset 722412
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found mdia atom of size 4394 at offset 724807
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found minf atom of size 4305 at offset 724896
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - Mp4AtomParser: Found stbl atom of size 4185 at offset 725016
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - [MI]  * c89bc1eead601a5a9d53b8e8beec6b285cca5ef1 [mp4 h264/aac] Duration: 9590ms, 480x360 (1.333333) 29.927fps, bitrate=608kbps, audio channels=2, optimizedForStreaming=1 ("/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4")
+Jan 02, 2023 11:24:00.898 [0x7fcf3f687140] DEBUG - [MI] Chapters had generic titles, clearing.
+Jan 02, 2023 11:24:00.899 [0x7fcf3f687140] DEBUG - [MI] Closing input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.899 [0x7fcf3f687140] DEBUG - Committing media stream changes for part 1
+Jan 02, 2023 11:24:00.899 [0x7fcf3f687140] DEBUG - Updating media item 1, size=729360, metadata_item_id=1
+Jan 02, 2023 11:24:00.899 [0x7fcf3f687140] DEBUG - Updating part with ID=1 [/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4]
+Jan 02, 2023 11:24:00.900 [0x7fcf3b133b00] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [MI] Opening input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Opening '/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4' for reading
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 420788
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.900 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Jan 02, 2023 11:24:00.900 [0x7fcf3b133b00] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Shifting DTS by 20 because of negative CTTS.
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 5754
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 1
+Jan 02, 2023 11:24:00.900 [0x7fcf3f687140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 729360 bytes read:40187 seeks:1 nb_streams:2
+Jan 02, 2023 11:24:00.901 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.901 [0x7fcf3f687140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 43116 bytes read:105723 seeks:2 frames:43
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/c/89bc1eead601a5a9d53b8e8beec6b285cca5ef1.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.903 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.904 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.904 [0x7fcf3f687140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.905 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.925 [0x7fcf3f687140] DEBUG - Loaded memory image of size 480x360.
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [MI] Closing input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [MI] Opening input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [FFMPEG] - Opening '/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4' for reading
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Jan 02, 2023 11:24:00.932 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 420788
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Shifting DTS by 20 because of negative CTTS.
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 5754
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 729360 bytes read:40187 seeks:1 nb_streams:2
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.933 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.934 [0x7fcf3f687140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.935 [0x7fcf3f687140] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 11:24:00.935 [0x7fcf3f687140] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 43116 bytes read:105723 seeks:2 frames:43
+Jan 02, 2023 11:24:00.935 [0x7fcf3f687140] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/c/89bc1eead601a5a9d53b8e8beec6b285cca5ef1.bundle/Contents/Art/art1.jpg (50.0%, 1280x720).
+Jan 02, 2023 11:24:00.935 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.935 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.936 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.936 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.936 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.936 [0x7fcf3f687140] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 11:24:00.936 [0x7fcf3f687140] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 11:24:00.938 [0x7fcf3f687140] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Jan 02, 2023 11:24:00.956 [0x7fcf3f687140] DEBUG - Loaded memory image of size 480x360.
+Jan 02, 2023 11:24:00.961 [0x7fcf3f687140] DEBUG - [MI] Closing input file: "/movies/v09044g40000ceaco0jc77u4j0t58bh0.mp4"
+Jan 02, 2023 11:24:00.962 [0x7fcf3f687140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.962 [0x7fcf3f687140] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.963 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Jan 02, 2023 11:24:00.963 [0x7fcf3f687140] DEBUG - Updating metadata item (save) (V09044g40000ceaco0jc77u4j0t58bh0) with ID 1
+Jan 02, 2023 11:24:00.964 [0x7fcf3b133b00] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Jan 02, 2023 11:24:00.964 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Jan 02, 2023 11:24:00.965 [0x7fcf3f687140] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.965 [0x7fcf3f687140] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 11:24:00.966 [0x7fcf3b26bb00] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Jan 02, 2023 11:24:00.966 [0x7fcf3f687140] DEBUG - Updating metadata item (save) (V09044g40000ceaco0jc77u4j0t58bh0) with ID 1

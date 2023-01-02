@@ -1,0 +1,566 @@
+2023-01-01 22:31:24.4|Info|AddMovieService|Adding Movie [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)][tt0363771, 411] Path: [/movies/The Chronicles of Narnia The Lion, the Witch and the Wardrobe (2005)]
+2023-01-01 22:31:24.8|Info|RefreshMovieService|Updating info for The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+2023-01-01 22:31:24.8|Warn|MediaCoverMapper|File /config/MediaCover/1/poster.jpg not found
+2023-01-01 22:31:25.1|Info|AddMovieCollectionService|Adding Collection NzbDrone.Core.Movies.Collections.MovieCollection
+2023-01-01 22:31:25.2|Info|RefreshCollectionService|Updating info for The Chronicles of Narnia Collection
+2023-01-01 22:31:25.6|Info|MediaCoverService|Downloading Poster for [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)][tt0363771, 411] https://image.tmdb.org/t/p/original/clfyMMg00OiowO5uupKpVKjRwmV.jpg
+2023-01-01 22:31:25.6|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-01 22:31:25.7|Info|MovieScannedHandler|[The Chronicles of Narnia: The Lion, the Witch and the Wardrobe] was recently added, performing post-add actions
+2023-01-01 22:31:25.7|Info|ReleaseSearchService|Searching indexers for [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe]. 0 active indexers
+2023-01-01 22:31:25.7|Info|DownloadDecisionMaker|No results found
+2023-01-01 22:31:25.8|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-01 22:31:26.0|Info|MediaCoverService|Downloading Fanart for [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)][tt0363771, 411] https://image.tmdb.org/t/p/original/tuDhEdza074bA497bO9WFEPs6O6.jpg
+2023-01-01 22:31:28.8|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 08:36:11.6|Info|RssSyncService|Starting RSS Sync
+2023-01-02 08:36:11.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2023-01-02 08:36:11.6|Info|DownloadDecisionMaker|No results found
+2023-01-02 08:36:11.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 09:14:53.6|Info|ConsoleApp|Exiting main.
+2023-01-02 09:15:09.3|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 09:15:10.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:15:10.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:15:11.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:15:12.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:15:13.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:15:17.5|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 09:31:18.2|Info|ConsoleApp|Exiting main.
+2023-01-02 09:31:26.4|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 09:31:27.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:31:27.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:31:29.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:31:30.1|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:31:31.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:31:34.1|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 09:36:34.5|Info|RssSyncService|Starting RSS Sync
+2023-01-02 09:36:34.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2023-01-02 09:36:34.6|Info|DownloadDecisionMaker|No results found
+2023-01-02 09:36:34.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 09:39:40.8|Info|ConsoleApp|Exiting main.
+2023-01-02 09:39:49.4|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 09:39:49.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:39:49.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:39:51.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 09:39:52.1|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:39:52.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 09:39:55.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 10:04:04.3|Info|ConsoleApp|Exiting main.
+2023-01-02 10:04:22.0|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 10:04:22.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 10:04:22.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 10:04:25.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 10:04:26.0|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 10:04:27.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 10:04:31.5|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 10:36:59.4|Info|RssSyncService|Starting RSS Sync
+2023-01-02 10:36:59.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2023-01-02 10:36:59.5|Info|DownloadDecisionMaker|No results found
+2023-01-02 10:36:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 10:49:54.4|Info|AddMovieService|Adding Movie [Avatar: The Way of Water (2022)][tt1630029, 76600] Path: [/movies/Avatar The Way of Water (2022)]
+2023-01-02 10:49:54.4|Info|RefreshMovieService|Updating info for Avatar: The Way of Water
+2023-01-02 10:49:54.8|Info|AddMovieCollectionService|Adding Collection NzbDrone.Core.Movies.Collections.MovieCollection
+2023-01-02 10:49:54.9|Info|RefreshCollectionService|Updating info for Avatar Collection
+2023-01-02 10:49:55.0|Info|MediaCoverService|Downloading Poster for [Avatar: The Way of Water (2022)][tt1630029, 76600] https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+2023-01-02 10:49:55.0|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 10:49:55.0|Info|MovieScannedHandler|[Avatar: The Way of Water] was recently added, performing post-add actions
+2023-01-02 10:49:55.2|Info|ReleaseSearchService|Searching indexers for [Avatar: The Way of Water]. 0 active indexers
+2023-01-02 10:49:55.2|Info|DownloadDecisionMaker|No results found
+2023-01-02 10:49:55.2|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-02 10:49:55.9|Info|MediaCoverService|Downloading Fanart for [Avatar: The Way of Water (2022)][tt1630029, 76600] https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg
+2023-01-02 10:49:57.4|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 10:52:55.3|Info|AddMovieService|Adding Movie [White Noise (2022)][tt6160448, 744594] Path: [/movies/White Noise (2022)]
+2023-01-02 10:52:55.3|Info|RefreshMovieService|Updating info for White Noise
+2023-01-02 10:52:55.5|Info|MediaCoverService|Downloading Poster for [White Noise (2022)][tt6160448, 744594] https://image.tmdb.org/t/p/original/1a48bfLQm57ByADdw05uRMoFCZc.jpg
+2023-01-02 10:52:55.5|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 10:52:55.5|Info|MovieScannedHandler|[White Noise] was recently added, performing post-add actions
+2023-01-02 10:52:55.5|Info|ReleaseSearchService|Searching indexers for [White Noise]. 0 active indexers
+2023-01-02 10:52:55.5|Info|DownloadDecisionMaker|No results found
+2023-01-02 10:52:55.5|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-02 10:52:56.3|Info|MediaCoverService|Downloading Fanart for [White Noise (2022)][tt6160448, 744594] https://image.tmdb.org/t/p/original/eLmA7Lw0EnXM8baIxbhyuzM37jP.jpg
+2023-01-02 10:52:57.3|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 11:20:31.2|Info|ConsoleApp|Exiting main.
+2023-01-02 11:20:40.7|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 11:20:40.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 11:20:40.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 11:20:41.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 11:20:41.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 11:20:42.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 11:20:43.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 11:37:13.8|Info|RssSyncService|Starting RSS Sync
+2023-01-02 11:38:53.8|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 11:38:53.8|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 11:38:53.8|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 11:38:53.8|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 11:38:54.0|Info|DownloadDecisionMaker|No results found
+2023-01-02 11:38:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 11:41:43.9|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2023-01-02 11:41:43.9|Info|HousekeepingService|Running housecleaning tasks
+2023-01-02 11:41:44.0|Info|ImportListSyncService|No auto enabled lists, skipping sync and cleaning
+2023-01-02 11:41:44.1|Info|RefreshMovieService|Updating info for Avatar: The Way of Water
+2023-01-02 11:41:44.2|Info|Database|Vacuuming Log database
+2023-01-02 11:41:44.2|Info|Database|Log database compressed
+2023-01-02 11:41:44.2|Info|Database|Vacuuming Main database
+2023-01-02 11:41:44.2|Info|Database|Main database compressed
+2023-01-02 11:41:44.5|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 11:41:44.5|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 11:41:44.5|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 11:41:44.8|Info|MediaCoverService|Downloading Fanart for [Avatar: The Way of Water (2022)][tt1630029, 76600] https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg
+2023-01-02 11:41:45.7|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 12:38:59.0|Info|RssSyncService|Starting RSS Sync
+2023-01-02 12:40:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 12:40:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 12:40:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 12:40:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 12:40:39.1|Info|DownloadDecisionMaker|No results found
+2023-01-02 12:40:39.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 13:40:58.9|Info|RssSyncService|Starting RSS Sync
+2023-01-02 13:42:38.9|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 13:42:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 13:42:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 13:42:39.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 13:42:39.0|Info|DownloadDecisionMaker|No results found
+2023-01-02 13:42:39.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 13:45:45.2|Info|AddMovieService|Adding Movie [Top Gun: Maverick (2022)][tt1745960, 361743] Path: [/movies/Top Gun Maverick (2022)]
+2023-01-02 13:45:45.3|Info|RefreshMovieService|Updating info for Top Gun: Maverick
+2023-01-02 13:45:45.5|Info|AddMovieCollectionService|Adding Collection NzbDrone.Core.Movies.Collections.MovieCollection
+2023-01-02 13:45:45.5|Info|RefreshCollectionService|Updating info for Top Gun Collection
+2023-01-02 13:45:45.7|Info|MediaCoverService|Downloading Poster for [Top Gun: Maverick (2022)][tt1745960, 361743] https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+2023-01-02 13:45:45.7|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 13:45:45.7|Info|MovieScannedHandler|[Top Gun: Maverick] was recently added, performing post-add actions
+2023-01-02 13:45:45.8|Info|ReleaseSearchService|Searching indexers for [Top Gun: Maverick]. 0 active indexers
+2023-01-02 13:45:45.8|Info|DownloadDecisionMaker|No results found
+2023-01-02 13:45:45.8|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-02 13:45:46.3|Info|MediaCoverService|Downloading Fanart for [Top Gun: Maverick (2022)][tt1745960, 361743] https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg
+2023-01-02 13:45:48.8|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 14:17:18.9|Info|ReleaseSearchService|Searching indexers for [Avatar: The Way of Water]. 4 active indexers
+2023-01-02 14:18:58.9|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 14:18:58.9|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 14:18:59.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 14:18:59.0|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 14:18:59.0|Info|DownloadDecisionMaker|No results found
+2023-01-02 14:43:00.1|Info|RssSyncService|Starting RSS Sync
+2023-01-02 14:43:00.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2023-01-02 14:43:00.2|Info|DownloadDecisionMaker|No results found
+2023-01-02 14:43:00.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 16:20:30.5|Info|RssSyncService|Starting RSS Sync
+2023-01-02 16:22:10.6|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 16:22:10.6|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 16:22:10.6|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 16:22:10.6|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v4.2.4.6635] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 101
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequest(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 124
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 59
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 282
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 57
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in D:\a\1\s\src\NzbDrone.Common\Cache\Cached.cs:line 104
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in D:\a\1\s\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:line 34
+   at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 23
+   at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator() in D:\a\1\s\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:line 27
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 95
+
+
+2023-01-02 16:22:10.6|Info|DownloadDecisionMaker|No results found
+2023-01-02 16:22:10.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 16:58:08.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 16:58:08.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 16:58:08.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 16:58:10.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 16:58:11.8|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 16:58:12.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 16:58:16.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 17:22:17.0|Info|RssSyncService|Starting RSS Sync
+2023-01-02 17:22:17.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2023-01-02 17:22:17.1|Info|DownloadDecisionMaker|No results found
+2023-01-02 17:22:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-02 17:43:31.3|Info|ConsoleApp|Exiting main.
+2023-01-02 17:43:47.1|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 17:43:47.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 17:43:47.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 17:43:49.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 17:43:49.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 17:43:50.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 17:43:53.9|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 17:47:47.4|Info|ConsoleApp|Exiting main.
+2023-01-02 18:01:35.9|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 18:01:36.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:01:36.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:01:38.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:01:39.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 18:01:40.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 18:01:45.7|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 18:08:48.2|Info|AddMovieService|Adding Movie [Black Adam (2022)][tt6443346, 436270] Path: [/movies/Black Adam (2022)]
+2023-01-02 18:08:48.5|Info|RefreshMovieService|Updating info for Black Adam
+2023-01-02 18:08:48.9|Info|MediaCoverService|Downloading Poster for [Black Adam (2022)][tt6443346, 436270] https://image.tmdb.org/t/p/original/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg
+2023-01-02 18:08:48.9|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 18:08:48.9|Info|MovieScannedHandler|[Black Adam] was recently added, performing post-add actions
+2023-01-02 18:08:49.1|Info|ReleaseSearchService|Searching indexers for [Black Adam]. 0 active indexers
+2023-01-02 18:08:49.1|Info|DownloadDecisionMaker|No results found
+2023-01-02 18:08:49.1|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-02 18:08:49.1|Info|MediaCoverService|Downloading Fanart for [Black Adam (2022)][tt6443346, 436270] https://image.tmdb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg
+2023-01-02 18:08:52.6|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 18:20:13.3|Info|ReleaseSearchService|Searching indexers for [Black Adam]. 4 active indexers
+2023-01-02 18:20:18.9|Info|DownloadDecisionMaker|Processing 62 releases
+2023-01-02 18:22:46.6|Info|RssSyncService|Starting RSS Sync
+2023-01-02 18:22:50.2|Info|DownloadDecisionMaker|Processing 69 releases
+2023-01-02 18:22:50.9|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2023-01-02 18:52:36.6|Info|ConsoleApp|Exiting main.
+2023-01-02 18:53:33.0|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 18:53:33.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:53:33.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:53:36.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 18:53:37.4|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 18:53:38.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 18:53:42.5|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 19:00:23.7|Info|AddMovieService|Adding Movie [Strange World (2022)][tt10298840, 877269] Path: [/movies/Strange World (2022)]
+2023-01-02 19:00:23.9|Info|RefreshMovieService|Updating info for Strange World
+2023-01-02 19:00:24.4|Info|MediaCoverService|Downloading Poster for [Strange World (2022)][tt10298840, 877269] https://image.tmdb.org/t/p/original/jXGMJUq9zcrScs02qkQuCtmWwaI.jpg
+2023-01-02 19:00:24.5|Warn|DiskScanService|Movie's root folder (/movies/) is empty. Rescan will not update movies as a failsafe.
+2023-01-02 19:00:24.5|Info|MovieScannedHandler|[Strange World] was recently added, performing post-add actions
+2023-01-02 19:00:24.6|Info|MediaCoverService|Downloading Fanart for [Strange World (2022)][tt10298840, 877269] https://image.tmdb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg
+2023-01-02 19:00:24.6|Info|ReleaseSearchService|Searching indexers for [Strange World]. 4 active indexers
+2023-01-02 19:00:29.5|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2023-01-02 19:00:35.7|Info|DownloadDecisionMaker|Processing 20 releases
+2023-01-02 19:00:37.0|Info|MovieSearchService|Movie search completed. 0 reports downloaded.
+2023-01-02 19:04:27.3|Info|ConsoleApp|Exiting main.
+2023-01-02 19:04:43.3|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 19:04:44.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:04:44.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:04:46.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:04:47.1|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:04:48.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:04:52.3|Info|CommandExecutor|Starting 2 threads for tasks.
+2023-01-02 19:06:01.0|Info|ConsoleApp|Exiting main.
+2023-01-02 19:06:15.9|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 4.2.4.6635
+2023-01-02 19:06:16.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:06:16.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:06:19.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:06:20.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:06:22.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:06:26.5|Info|CommandExecutor|Starting 2 threads for tasks.
