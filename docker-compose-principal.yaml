@@ -10,7 +10,7 @@ services:
       - PLEX_CLAIM= 
     volumes:
       - ${PLEX_CONFIG}:/config
-      - /home/ayman/Documents/new_projet_docker/plex/tvseries:/tv
+      - ${PLEX_TV}:/tv
       - ${PLEX_MOVIES}:/movies
     restart: unless-stopped
     networks:
