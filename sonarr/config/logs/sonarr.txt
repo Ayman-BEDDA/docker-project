@@ -1437,3 +1437,218 @@ qacct:"p-65fDiBy2lVMDM"
 2023-01-02 19:06:24.6|Info|OwinHostController|Listening on the following URLs:
 2023-01-02 19:06:24.6|Info|OwinHostController|  http://*:8989/
 2023-01-02 19:06:27.0|Info|SonarrBootstrapper|Starting Web Server
+2023-01-02 19:19:02.9|Info|RssSyncService|Starting RSS Sync
+2023-01-02 19:19:07.8|Warn|Torznab|Indexer GkTorrent (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:03:48 PM and 1/2/2023 7:19:06 PM UTC. Search may be required.
+2023-01-02 19:19:07.8|Warn|Torznab|Indexer Torrent911 (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:03:48 PM and 1/2/2023 7:19:07 PM UTC. Search may be required.
+2023-01-02 19:19:08.0|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:03:48 PM and 1/2/2023 7:19:06 PM UTC. Search may be required.
+2023-01-02 19:19:08.8|Warn|Torznab|Indexer Torrent9 clone (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:03:48 PM and 1/2/2023 7:19:08 PM UTC. Search may be required.
+2023-01-02 19:19:08.9|Info|DownloadDecisionMaker|Processing 77 releases
+2023-01-02 19:19:09.8|Info|RssSyncService|RSS Sync Completed. Reports found: 77, Reports grabbed: 0
+2023-01-02 19:23:26.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.9.1549
+2023-01-02 19:23:29.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:23:30.7|Info|Router|Application mode: Interactive
+2023-01-02 19:23:32.0|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:23:33.0|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:23:34.4|Info|OwinHostController|Listening on the following URLs:
+2023-01-02 19:23:34.4|Info|OwinHostController|  http://*:8989/
+2023-01-02 19:23:37.3|Info|SonarrBootstrapper|Starting Web Server
+2023-01-03 09:02:26.7|Info|SceneMappingService|Updating Scene mappings
+2023-01-03 09:02:26.8|Info|RssSyncService|Starting RSS Sync
+2023-01-03 09:02:27.0|Info|RefreshSeriesService|Updating The Glory
+2023-01-03 09:02:26.8|Error|SceneMappingService|Failed to Update Scene Mappings
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'thexem.info'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.DataAugmentation.Xem.XemProxy.GetSceneTvdbNames () [0x0003c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Xem\XemProxy.cs:82 
+  at NzbDrone.Core.DataAugmentation.Xem.XemService.GetSceneMappings () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Xem\XemService.cs:205 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingService.UpdateMappings () [0x0002f] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingService.cs:136 
+
+2023-01-03 09:02:27.1|Error|RefreshSeriesService|Couldn't refresh info for [411469][The Glory]
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'skyhook.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.MetadataSource.SkyHook.SkyHookProxy.GetSeriesInfo (System.Int32 tvdbSeriesId) [0x0003b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\MetadataSource\SkyHook\SkyHookProxy.cs:50 
+  at NzbDrone.Core.Tv.RefreshSeriesService.RefreshSeriesInfo (System.Int32 seriesId) [0x0002c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:63 
+  at NzbDrone.Core.Tv.RefreshSeriesService.Execute (NzbDrone.Core.Tv.Commands.RefreshSeriesCommand message) [0x00122] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:231 
+
+2023-01-03 09:02:27.2|Warn|Torznab|Torrent9 (Prowlarr)  DNS Name Resolution Failure: 'prowlarr.projet-ayman.duckdns.org'
+2023-01-03 09:02:27.2|Warn|Torznab|Torrent9 clone (Prowlarr)  DNS Name Resolution Failure: 'prowlarr.projet-ayman.duckdns.org'
+2023-01-03 09:02:27.3|Warn|Torznab|Torrent911 (Prowlarr)  DNS Name Resolution Failure: 'prowlarr.projet-ayman.duckdns.org'
+2023-01-03 09:02:27.3|Warn|Torznab|GkTorrent (Prowlarr)  DNS Name Resolution Failure: 'prowlarr.projet-ayman.duckdns.org'
+2023-01-03 09:02:27.3|Error|SceneMappingService|Failed to Update Scene Mappings
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'services.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingProxy.Fetch () [0x0001b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingProxy.cs:29 
+  at NzbDrone.Core.DataAugmentation.Scene.ServicesProvider.GetSceneMappings () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\ServicesProvider.cs:16 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingService.UpdateMappings () [0x0002f] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingService.cs:136 
+
+2023-01-03 09:02:27.4|Warn|DiskScanService|Series' root folder (/downloads/) is empty.
+2023-01-03 09:02:27.4|Info|DownloadDecisionMaker|No results found
+2023-01-03 09:02:27.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2023-01-03 09:02:27.5|Info|RefreshSeriesService|Updating Lady Voyeur
+2023-01-03 09:02:27.5|Error|RefreshSeriesService|Couldn't refresh info for [410821][Lady Voyeur]
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'skyhook.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.MetadataSource.SkyHook.SkyHookProxy.GetSeriesInfo (System.Int32 tvdbSeriesId) [0x0003b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\MetadataSource\SkyHook\SkyHookProxy.cs:50 
+  at NzbDrone.Core.Tv.RefreshSeriesService.RefreshSeriesInfo (System.Int32 seriesId) [0x0002c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:63 
+  at NzbDrone.Core.Tv.RefreshSeriesService.Execute (NzbDrone.Core.Tv.Commands.RefreshSeriesCommand message) [0x00122] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:231 
+
+2023-01-03 09:02:27.5|Warn|DiskScanService|Series' root folder (/downloads/) is empty.
+2023-01-03 09:02:27.6|Info|RefreshSeriesService|Updating The Witcher: Blood Origin
+2023-01-03 09:02:27.6|Error|RefreshSeriesService|Couldn't refresh info for [399987][The Witcher: Blood Origin]
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'skyhook.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.MetadataSource.SkyHook.SkyHookProxy.GetSeriesInfo (System.Int32 tvdbSeriesId) [0x0003b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\MetadataSource\SkyHook\SkyHookProxy.cs:50 
+  at NzbDrone.Core.Tv.RefreshSeriesService.RefreshSeriesInfo (System.Int32 seriesId) [0x0002c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:63 
+  at NzbDrone.Core.Tv.RefreshSeriesService.Execute (NzbDrone.Core.Tv.Commands.RefreshSeriesCommand message) [0x00122] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Tv\RefreshSeriesService.cs:231 
+
+2023-01-03 09:02:27.6|Warn|DiskScanService|Series' root folder (/downloads/) is empty.
+2023-01-03 09:02:27.7|Info|HousekeepingService|Running housecleaning tasks
+2023-01-03 09:02:27.9|Error|CommandExecutor|Error occurred while executing task ApplicationUpdateCheck
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'services.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.Update.UpdatePackageProvider.GetLatestUpdate (System.String branch, System.Version currentVersion) [0x00099] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdatePackageProvider.cs:46 
+  at NzbDrone.Core.Update.CheckUpdateService.AvailableUpdate () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdateCheckService.cs:26 
+  at NzbDrone.Core.Update.InstallUpdateService.GetUpdatePackage (NzbDrone.Core.Messaging.Commands.CommandTrigger updateTrigger) [0x00015] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\InstallUpdateService.cs:223 
+  at NzbDrone.Core.Update.InstallUpdateService.Execute (NzbDrone.Core.Update.Commands.ApplicationUpdateCheckCommand message) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\InstallUpdateService.cs:255 
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand] (TCommand command, NzbDrone.Core.Messaging.Commands.CommandModel commandModel) [0x000e0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:96 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2] (System.Runtime.CompilerServices.CallSite site, T0 arg0, T1 arg1, T2 arg2) [0x0011e] in <f6c405b973804b5c804e7e759353765f>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands () [0x00027] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:41 
+
+2023-01-03 09:02:28.2|Info|Database|Vacuuming Log database
+2023-01-03 09:02:28.2|Info|Database|Log database compressed
+2023-01-03 09:02:28.2|Error|TaskExtensions|Task Error
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'services.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Core.HealthCheck.Checks.SystemTimeCheck.Check () [0x0001b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\Checks\SystemTimeCheck.cs:28 
+  at NzbDrone.Core.HealthCheck.HealthCheckService+<>c.<PerformHealthCheck>b__14_0 (NzbDrone.Core.HealthCheck.IProvideHealthCheck c) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at System.Linq.Enumerable+SelectArrayIterator`2[TSource,TResult].ToList () [0x00014] in <f6c405b973804b5c804e7e759353765f>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <f6c405b973804b5c804e7e759353765f>:0 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.PerformHealthCheck (NzbDrone.Core.HealthCheck.IProvideHealthCheck[] healthChecks) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.HandleAsync (NzbDrone.Common.Messaging.IEvent message) [0x00038] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:134 
+  at NzbDrone.Core.Messaging.Events.EventAggregator+<>c__DisplayClass6_1`1[TEvent].<PublishEvent>b__1 () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Events\EventAggregator.cs:107 
+  at System.Threading.Tasks.Task.InnerInvoke () [0x0000f] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Threading.Tasks.Task.Execute () [0x00000] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+
+2023-01-03 09:02:28.4|Info|Database|Vacuuming Main database
+2023-01-03 09:02:28.5|Info|Database|Main database compressed
+2023-01-03 09:02:28.5|Info|ImportListSyncService|Starting Import List Sync
+2023-01-03 09:02:28.6|Info|ImportListSyncService|Processing 0 list items
+2023-01-03 09:02:28.6|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2023-01-03 09:02:28.7|Info|ImportListSyncService|Import List Sync Completed. Items found: 0, Series added: 0
+2023-01-03 09:02:28.9|Error|CommandExecutor|Error occurred while executing task CheckHealth
+
+[v3.0.9.1549] System.Net.WebException: DNS Name Resolution Failure: 'services.sonarr.tv'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0015a] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:95 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Core.HealthCheck.Checks.SystemTimeCheck.Check () [0x0001b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\Checks\SystemTimeCheck.cs:28 
+  at NzbDrone.Core.HealthCheck.HealthCheckService+<>c.<PerformHealthCheck>b__14_0 (NzbDrone.Core.HealthCheck.IProvideHealthCheck c) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at System.Linq.Enumerable+SelectArrayIterator`2[TSource,TResult].ToList () [0x00014] in <f6c405b973804b5c804e7e759353765f>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <f6c405b973804b5c804e7e759353765f>:0 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.PerformHealthCheck (NzbDrone.Core.HealthCheck.IProvideHealthCheck[] healthChecks) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.Execute (NzbDrone.Core.HealthCheck.CheckHealthCommand message) [0x00016] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:111 
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand] (TCommand command, NzbDrone.Core.Messaging.Commands.CommandModel commandModel) [0x000e0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:96 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2] (System.Runtime.CompilerServices.CallSite site, T0 arg0, T1 arg1, T2 arg2) [0x0011e] in <f6c405b973804b5c804e7e759353765f>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands () [0x00027] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:41 
+
+2023-01-03 09:06:19.3|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.9.1549
+2023-01-03 09:06:22.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:06:22.7|Info|Router|Application mode: Interactive
+2023-01-03 09:06:23.8|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:06:24.7|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:06:26.2|Info|OwinHostController|Listening on the following URLs:
+2023-01-03 09:06:26.2|Info|OwinHostController|  http://*:8989/
+2023-01-03 09:06:28.8|Info|SonarrBootstrapper|Starting Web Server
+2023-01-03 09:12:05.8|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.9.1549
+2023-01-03 09:12:07.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:12:08.3|Info|Router|Application mode: Interactive
+2023-01-03 09:12:09.5|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:12:10.4|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:12:11.5|Info|OwinHostController|Listening on the following URLs:
+2023-01-03 09:12:11.5|Info|OwinHostController|  http://*:8989/
+2023-01-03 09:12:13.9|Info|SonarrBootstrapper|Starting Web Server
+2023-01-03 09:17:48.8|Info|RssSyncService|Starting RSS Sync
+2023-01-03 09:17:53.7|Warn|Torznab|Indexer Torrent911 (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:19:07 PM and 1/3/2023 9:17:53 AM UTC. Search may be required.
+2023-01-03 09:17:54.0|Warn|Torznab|Indexer Torrent9 clone (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:19:08 PM and 1/3/2023 9:17:53 AM UTC. Search may be required.
+2023-01-03 09:17:54.2|Warn|Torznab|Indexer GkTorrent (Prowlarr) rss sync didn't cover the period between 1/2/2023 7:19:07 PM and 1/3/2023 9:17:53 AM UTC. Search may be required.
+2023-01-03 09:17:54.3|Info|DownloadDecisionMaker|Processing 57 releases
+2023-01-03 09:17:54.9|Info|RssSyncService|RSS Sync Completed. Reports found: 57, Reports grabbed: 0
+2023-01-03 09:32:31.9|Info|AddSeriesService|Adding Series [376472][Alice in Borderland (2020)] Path: [/downloads/Alice in Borderland (2020)]
+2023-01-03 09:32:32.0|Info|SceneMappingService|Updating Scene mappings
+2023-01-03 09:32:32.1|Info|RefreshSeriesService|Updating Alice in Borderland (2020)
+2023-01-03 09:32:32.3|Info|RefreshEpisodeService|Starting episode info refresh for: [376472][Alice in Borderland (2020)]
+2023-01-03 09:32:32.5|Info|RefreshEpisodeService|Finished episode refresh for series: [376472][Alice in Borderland (2020)].
+2023-01-03 09:32:32.8|Info|MediaCoverService|Downloading Banner for [376472][Alice in Borderland (2020)] https://artworks.thetvdb.com/banners/series/376472/banners/5fdfc72ad2a10.jpg
+2023-01-03 09:32:32.9|Warn|DiskScanService|Series' root folder (/downloads/) is empty.
+2023-01-03 09:32:32.9|Info|SeriesScannedHandler|[Alice in Borderland (2020)] was recently added, performing post-add actions
+2023-01-03 09:32:33.0|Info|MediaCoverService|Downloading Poster for [376472][Alice in Borderland (2020)] https://artworks.thetvdb.com/banners/series/376472/posters/5fbcea9096847.jpg
+2023-01-03 09:32:33.2|Info|MediaCoverService|Downloading Fanart for [376472][Alice in Borderland (2020)] https://artworks.thetvdb.com/banners/series/376472/backgrounds/5fafff86f0364.jpg
+2023-01-03 09:32:33.4|Info|EpisodeSearchService|Performing search for 8 episodes
+2023-01-03 09:32:33.6|Info|ReleaseSearchService|Searching indexers for [Alice in Borderland (2020) : S01]. 4 active indexers
+2023-01-03 09:32:36.4|Info|DownloadDecisionMaker|Processing 3 releases
+2023-01-03 09:32:36.8|Info|EpisodeSearchService|Completed search for 8 episodes. 0 reports downloaded.
+2023-01-03 09:32:51.2|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2023-01-03 09:33:19.1|Info|RssSyncService|Starting RSS Sync
+2023-01-03 09:33:20.4|Warn|Torznab|Indexer Torrent911 (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:17:53 AM and 1/3/2023 9:33:19 AM UTC. Search may be required.
+2023-01-03 09:33:20.7|Warn|Torznab|Indexer GkTorrent (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:17:53 AM and 1/3/2023 9:33:19 AM UTC. Search may be required.
+2023-01-03 09:33:21.0|Warn|Torznab|Indexer Torrent9 clone (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:17:53 AM and 1/3/2023 9:33:19 AM UTC. Search may be required.
+2023-01-03 09:33:21.0|Info|DownloadDecisionMaker|Processing 57 releases
+2023-01-03 09:33:21.6|Info|RssSyncService|RSS Sync Completed. Reports found: 57, Reports grabbed: 0
+2023-01-03 09:43:32.7|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.9.1549
+2023-01-03 09:43:35.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:43:35.7|Info|Router|Application mode: Interactive
+2023-01-03 09:43:36.8|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:43:37.8|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:43:39.3|Info|OwinHostController|Listening on the following URLs:
+2023-01-03 09:43:39.3|Info|OwinHostController|  http://*:8989/
+2023-01-03 09:43:42.1|Info|SonarrBootstrapper|Starting Web Server
+2023-01-03 09:48:22.1|Info|RssSyncService|Starting RSS Sync
+2023-01-03 09:48:26.3|Warn|Torznab|Indexer Torrent911 (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:33:20 AM and 1/3/2023 9:48:25 AM UTC. Search may be required.
+2023-01-03 09:48:26.3|Warn|Torznab|Indexer GkTorrent (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:33:19 AM and 1/3/2023 9:48:25 AM UTC. Search may be required.
+2023-01-03 09:48:26.5|Warn|Torznab|Indexer Torrent9 clone (Prowlarr) rss sync didn't cover the period between 1/3/2023 9:33:20 AM and 1/3/2023 9:48:25 AM UTC. Search may be required.
+2023-01-03 09:48:26.6|Info|DownloadDecisionMaker|Processing 57 releases
+2023-01-03 09:48:27.1|Info|RssSyncService|RSS Sync Completed. Reports found: 57, Reports grabbed: 0
+2023-01-03 09:52:29.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.9.1549
+2023-01-03 09:52:32.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:52:33.6|Info|Router|Application mode: Interactive
+2023-01-03 09:52:35.0|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:52:36.4|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:52:38.2|Info|OwinHostController|Listening on the following URLs:
+2023-01-03 09:52:38.2|Info|OwinHostController|  http://*:8989/
+2023-01-03 09:52:41.1|Info|SonarrBootstrapper|Starting Web Server

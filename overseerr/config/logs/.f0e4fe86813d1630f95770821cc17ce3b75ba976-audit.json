@@ -14,6 +14,11 @@
             "date": 1672648588477,
             "name": "/config/logs/overseerr-2023-01-02.log",
             "hash": "a03c35f2343d3c81fb0148ea24f8b901a5457a59c6599c8d5f1f2415a7cd15e7"
+        },
+        {
+            "date": 1672736591907,
+            "name": "/config/logs/overseerr-2023-01-03.log",
+            "hash": "1e51cadf23e5b991ce46cbf7da8c800d33053005967b6c58c5650844e5dc3813"
         }
     ],
     "hashType": "sha256"

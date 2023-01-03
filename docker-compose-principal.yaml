@@ -11,7 +11,7 @@ services:
     volumes:
       - ${PLEX_CONFIG}:/config
       - /home/ayman/Documents/new_projet_docker/plex/tvseries:/tv
-      - /home/ayman/Documents/new_projet_docker/plex/movies:/movies
+      - ${PLEX_MOVIES}:/movies
     restart: unless-stopped
     networks:
       - plex_network

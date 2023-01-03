@@ -4469,3 +4469,294 @@ error code: 1020
 2023-01-02 19:06:21.5|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
 2023-01-02 19:06:22.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
 2023-01-02 19:06:26.0|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-02 19:19:04.3|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:19:04.3|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-02 19:19:04.3|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:19:04.3|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:19:04.6|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-02 19:19:04.6|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-02 19:19:04.6|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-02 19:19:04.6|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-02 19:22:57.8|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:22:57.8|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-02 19:22:57.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:22:57.9|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-02 19:22:57.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:22:57.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:22:57.9|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-02 19:22:57.9|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-02 19:23:25.3|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.0.1.2210
+2023-01-02 19:23:26.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:23:26.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:23:29.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-02 19:23:30.6|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:23:31.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-02 19:23:35.4|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-02 19:23:56.6|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:23:56.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2023-01-02 19:23:59.3|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:23:59.8|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2023-01-02 19:23:59.9|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-02 19:24:00.0|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:00.0|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:00.0|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:01.2|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:01.2|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:02.5|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:02.5|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:24:09.4|Info|Auth|Auth-Success ip 10.33.0.13 username 'ayman'
+2023-01-02 19:25:36.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:25:36.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:25:36.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:25:36.7|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-02 19:25:36.9|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-02 19:25:36.9|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-02 19:25:36.9|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-02 19:25:36.9|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-02 19:25:37.2|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:25:37.2|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:25:37.2|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-02 19:25:37.2|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-02 19:25:37.4|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-02 19:25:37.4|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-02 19:25:37.5|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-02 19:25:37.5|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:02:37.4|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2023-01-03 09:02:37.4|Info|Prowlarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2023-01-03 09:04:28.3|Error|ApplicationService|An error occurred while talking to remote application.
+
+[v1.0.1.2210] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 108
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 136
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\RadarrV3Proxy.cs:line 156
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.GetIndexers(RadarrSettings settings) in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\RadarrV3Proxy.cs:line 44
+   at NzbDrone.Core.Applications.Radarr.Radarr.GetIndexerMappings() in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\Radarr.cs:line 63
+   at NzbDrone.Core.Applications.ApplicationService.<>c.<SyncIndexers>b__14_0(IApplication a) in D:\a\1\s\src\NzbDrone.Core\Applications\ApplicationService.cs:line 133
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction[TResult](Func`2 applicationAction, IApplication application) in D:\a\1\s\src\NzbDrone.Core\Applications\ApplicationService.cs:line 272
+
+
+2023-01-03 09:05:41.5|Info|ConsoleApp|Exiting main.
+2023-01-03 09:06:17.6|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.0.1.2210
+2023-01-03 09:06:18.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:06:18.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:06:21.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:06:23.0|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:06:24.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:06:27.1|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-03 09:08:37.8|Error|ApplicationService|An error occurred while talking to remote application.
+
+[v1.0.1.2210] System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 108
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 136
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.Execute[TResource](HttpRequest request) in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\RadarrV3Proxy.cs:line 156
+   at NzbDrone.Core.Applications.Radarr.RadarrV3Proxy.GetIndexers(RadarrSettings settings) in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\RadarrV3Proxy.cs:line 44
+   at NzbDrone.Core.Applications.Radarr.Radarr.GetIndexerMappings() in D:\a\1\s\src\NzbDrone.Core\Applications\Radarr\Radarr.cs:line 63
+   at NzbDrone.Core.Applications.ApplicationService.<>c.<SyncIndexers>b__14_0(IApplication a) in D:\a\1\s\src\NzbDrone.Core\Applications\ApplicationService.cs:line 133
+   at NzbDrone.Core.Applications.ApplicationService.ExecuteAction[TResult](Func`2 applicationAction, IApplication application) in D:\a\1\s\src\NzbDrone.Core\Applications\ApplicationService.cs:line 272
+
+
+2023-01-03 09:09:01.2|Info|ConsoleApp|Exiting main.
+2023-01-03 09:12:03.4|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.0.1.2210
+2023-01-03 09:12:04.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:12:04.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:12:06.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:12:07.8|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:12:08.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:12:12.5|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-03 09:16:27.6|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:28.4|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:28.4|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:28.4|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:28.4|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:28.4|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:29.3|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:29.3|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:29.9|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:29.9|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:16:30.3|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:17:49.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:17:49.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:17:49.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:17:49.6|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:17:49.9|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-03 09:17:49.9|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-03 09:17:49.9|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-03 09:17:49.9|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:17:50.9|Error|X509CertificateValidationService|Certificate validation for torrent9.to failed. RemoteCertificateChainErrors
+2023-01-03 09:17:51.0|Error|Cardigann|An error occurred while processing indexer feed. https://torrent9.to/
+
+[v1.0.1.2210] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate was rejected by the provided RemoteCertificateValidationCallback.
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.CompleteHandshake(SslAuthenticationOptions sslAuthenticationOptions)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 108
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in D:\a\1\s\src\NzbDrone.Core\Indexers\IndexerHttpClient.cs:line 41
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 367
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 285
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 175
+FeedUrl: https://torrent9.to/
+
+2023-01-03 09:32:08.6|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [Troll 2022], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:32:08.6|Info|Cardigann|Adding request: https://www.gktorrents.cc/recherche/Troll%202022
+2023-01-03 09:32:08.7|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [Troll 2022], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:32:08.7|Info|Cardigann|Adding request: https://torrent9.to/search_torrent/Troll-2022.html
+2023-01-03 09:32:08.8|Error|X509CertificateValidationService|Certificate validation for torrent9.to failed. RemoteCertificateChainErrors
+2023-01-03 09:32:08.8|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [Troll 2022], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:32:08.8|Info|Cardigann|Adding request: https://ww2.torrent9.re/recherche/Troll%202022
+2023-01-03 09:32:08.8|Error|Cardigann|An error occurred while processing indexer feed. https://torrent9.to/search_torrent/Troll-2022.html
+
+[v1.0.1.2210] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate was rejected by the provided RemoteCertificateValidationCallback.
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.CompleteHandshake(SslAuthenticationOptions sslAuthenticationOptions)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 108
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in D:\a\1\s\src\NzbDrone.Core\Indexers\IndexerHttpClient.cs:line 41
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 367
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 285
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 175
+FeedUrl: https://torrent9.to/search_torrent/Troll-2022.html
+
+2023-01-03 09:32:08.8|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [Troll 2022], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:32:09.1|Info|Cardigann|Adding request: https://www.torrent911.tv/recherche/Troll%202022
+2023-01-03 09:32:33.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [Alice in Borderland] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:33.9|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [Alice in Borderland] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:33.9|Info|Cardigann|Adding request: https://ww2.torrent9.re/recherche/Alice%20in%20Borderland%20saison%201
+2023-01-03 09:32:33.9|Info|Cardigann|Adding request: https://www.gktorrents.cc/recherche/Alice%20in%20Borderland%20saison%201
+2023-01-03 09:32:33.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [Alice in Borderland] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:33.9|Info|Cardigann|Adding request: https://www.torrent911.tv/recherche/Alice%20in%20Borderland%20saison%201
+2023-01-03 09:32:35.8|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [Alice in Borderland 2020] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:35.8|Info|Cardigann|Adding request: https://www.torrent911.tv/recherche/Alice%20in%20Borderland%202020%20saison%201
+2023-01-03 09:32:35.8|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [Alice in Borderland 2020] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:35.9|Info|Cardigann|Adding request: https://www.gktorrents.cc/recherche/Alice%20in%20Borderland%202020%20saison%201
+2023-01-03 09:32:35.9|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [Alice in Borderland 2020] for Season / Episode:[S01], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:32:35.9|Info|Cardigann|Adding request: https://ww2.torrent9.re/recherche/Alice%20in%20Borderland%202020%20saison%201
+2023-01-03 09:33:19.3|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:33:19.3|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:33:19.3|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:33:19.3|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-03 09:33:19.3|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:33:19.3|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-03 09:38:36.7|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:38:36.7|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-03 09:38:36.8|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:38:36.8|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2023-01-03 09:38:36.8|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-03 09:38:36.8|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:38:37.6|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:38:37.6|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-03 09:38:37.6|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:38:37.7|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:38:37.7|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-03 09:38:37.7|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:41:43.9|Info|HousekeepingService|Running housecleaning tasks
+2023-01-03 09:41:44.0|Info|Database|Vacuuming Log database
+2023-01-03 09:41:44.0|Info|Database|Log database compressed
+2023-01-03 09:41:44.0|Info|Database|Vacuuming Main database
+2023-01-03 09:41:44.0|Info|Database|Main database compressed
+2023-01-03 09:41:44.0|Info|HistoryService|Removing items older than 365 days from history
+2023-01-03 09:42:51.6|Info|ConsoleApp|Exiting main.
+2023-01-03 09:43:31.1|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.0.1.2210
+2023-01-03 09:43:32.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:43:32.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:43:35.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:43:37.1|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:43:38.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:43:42.7|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-03 09:48:23.1|Info|ReleaseSearchService|Searching indexer(s): [Torrent9] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2023-01-03 09:48:23.1|Info|ReleaseSearchService|Searching indexer(s): [GkTorrent] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:48:23.1|Info|ReleaseSearchService|Searching indexer(s): [Torrent9 clone] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:48:23.1|Info|ReleaseSearchService|Searching indexer(s): [Torrent911] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2023-01-03 09:48:23.4|Info|Cardigann|Adding request: https://ww2.torrent9.re/
+2023-01-03 09:48:23.4|Info|Cardigann|Adding request: https://www.gktorrents.cc/
+2023-01-03 09:48:23.4|Info|Cardigann|Adding request: https://torrent9.to/
+2023-01-03 09:48:23.4|Info|Cardigann|Adding request: https://www.torrent911.tv/derniers
+2023-01-03 09:48:23.6|Error|X509CertificateValidationService|Certificate validation for torrent9.to failed. RemoteCertificateChainErrors
+2023-01-03 09:48:23.6|Error|Cardigann|An error occurred while processing indexer feed. https://torrent9.to/
+
+[v1.0.1.2210] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate was rejected by the provided RemoteCertificateValidationCallback.
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.CompleteHandshake(SslAuthenticationOptions sslAuthenticationOptions)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in D:\a\1\s\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:line 108
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 170
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in D:\a\1\s\src\NzbDrone.Common\Http\HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in D:\a\1\s\src\NzbDrone.Core\Indexers\IndexerHttpClient.cs:line 41
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 367
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 285
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in D:\a\1\s\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:line 175
+FeedUrl: https://torrent9.to/
+
+2023-01-03 09:52:02.9|Info|ConsoleApp|Exiting main.
+2023-01-03 09:52:28.8|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.0.1.2210
+2023-01-03 09:52:29.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:52:29.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:52:32.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2023-01-03 09:52:34.1|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:52:35.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2023-01-03 09:52:39.3|Info|CommandExecutor|Starting 3 threads for tasks.
+2023-01-03 09:53:19.7|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:53:20.6|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:53:20.6|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:53:20.6|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:53:21.5|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'
+2023-01-03 09:53:21.5|Info|Auth|Auth-Success ip 10.66.125.128 username 'ayman'

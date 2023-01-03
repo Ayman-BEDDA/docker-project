@@ -1,0 +1,1494 @@
+2023-01-03T09:03:11.903Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:11.952Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:11.955Z [info][Plex Scan]: Scan starting {"sessionId":"2f260497-e670-4368-991d-ed4926cbd48c"}
+2023-01-03T09:03:11.986Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.043Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.062Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.093Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.096Z [info][Plex Scan]: Scan starting {"sessionId":"b184e14c-20f5-4a42-80b3-afc783321865"}
+2023-01-03T09:03:12.168Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.196Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.210Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.225Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.235Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.250Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.259Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.260Z [info][Plex Scan]: Scan starting {"sessionId":"09a007b0-b2cc-4e92-9757-1a3e4aac9157"}
+2023-01-03T09:03:12.274Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.287Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.298Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.307Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.314Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.320Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.321Z [info][Plex Scan]: Scan starting {"sessionId":"72b184fd-2916-4748-b8c3-72e9f1c325cc"}
+2023-01-03T09:03:12.337Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.347Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.354Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.364Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.370Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.376Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.388Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.389Z [info][Plex Scan]: Scan starting {"sessionId":"8433d305-ffd2-4506-8cdf-2b9c408f735c"}
+2023-01-03T09:03:12.401Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.407Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.410Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.412Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.413Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.424Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.433Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.443Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.452Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.462Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.463Z [info][Plex Scan]: Scan starting {"sessionId":"fc650e06-57aa-40b1-ac76-b68d3cfd55dc"}
+2023-01-03T09:03:12.484Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.495Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.504Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.512Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.525Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.535Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.547Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.565Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.566Z [info][Plex Scan]: Scan starting {"sessionId":"5cf5b383-23f2-4921-bcff-ca7ace38f451"}
+2023-01-03T09:03:12.580Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.582Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.592Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.603Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.613Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.629Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.644Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.645Z [info][Plex Scan]: Scan starting {"sessionId":"e22c9a7c-d0a5-4940-95e6-8777d5f6e4e0"}
+2023-01-03T09:03:12.665Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.677Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.682Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.689Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.701Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.709Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.716Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.731Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.733Z [info][Plex Scan]: Scan starting {"sessionId":"6b646f61-bfc1-4c3f-9450-c1076823b08c"}
+2023-01-03T09:03:12.742Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.744Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.751Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.759Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.768Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.778Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.784Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.785Z [info][Plex Scan]: Scan starting {"sessionId":"0084cf52-19c9-4362-95d8-9e44ea1ff8d9"}
+2023-01-03T09:03:12.804Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.813Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.817Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.823Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.832Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.839Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.846Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.860Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.860Z [info][Plex Scan]: Scan starting {"sessionId":"44024619-e8e1-4096-ba6e-68715ab57fa3"}
+2023-01-03T09:03:12.871Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.873Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.879Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.886Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.893Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.903Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.909Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.910Z [info][Plex Scan]: Scan starting {"sessionId":"7d6a2bd9-9c59-4205-9347-afa56312a6e5"}
+2023-01-03T09:03:12.925Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:12.935Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.938Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:12.945Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.954Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.963Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.970Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.983Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:12.984Z [info][Plex Scan]: Scan starting {"sessionId":"a44c7089-a8fa-459a-aa86-eddd70bb9e8b"}
+2023-01-03T09:03:12.993Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:12.995Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.031Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.032Z [info][Plex Scan]: Scan starting {"sessionId":"b2245bed-1426-4f46-affb-cfcaa47b6d87"}
+2023-01-03T09:03:13.045Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.051Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.055Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.058Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.063Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.069Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.075Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.084Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.085Z [info][Plex Scan]: Scan starting {"sessionId":"bf246877-3903-4a2f-9c2b-a6cc045bcc2a"}
+2023-01-03T09:03:13.090Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.092Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.095Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.101Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.104Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.109Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.114Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.115Z [info][Plex Scan]: Scan starting {"sessionId":"fe64f089-9560-482a-8c8f-d75c986364f0"}
+2023-01-03T09:03:13.127Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.133Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.137Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.141Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.148Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.153Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.158Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.170Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.171Z [info][Plex Scan]: Scan starting {"sessionId":"3ad62aae-9885-476e-bfee-089a8378b2c4"}
+2023-01-03T09:03:13.178Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.180Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.186Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.195Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.204Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.211Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.217Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.218Z [info][Plex Scan]: Scan starting {"sessionId":"786a553a-0016-4ebe-a7da-07e35bffa71b"}
+2023-01-03T09:03:13.239Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.248Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.253Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.259Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.267Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.278Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.285Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.299Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.300Z [info][Plex Scan]: Scan starting {"sessionId":"98b17b56-d148-492a-9b7a-88221378404e"}
+2023-01-03T09:03:13.311Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.313Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.319Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.327Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.333Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.342Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.348Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.349Z [info][Plex Scan]: Scan starting {"sessionId":"32515016-3887-4aa2-a2fd-db1fc5ddd6f5"}
+2023-01-03T09:03:13.368Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.378Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.381Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.387Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.396Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.407Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.414Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.426Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.427Z [info][Plex Scan]: Scan starting {"sessionId":"6b2674ab-a26b-4b03-aeca-367089e05570"}
+2023-01-03T09:03:13.437Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.439Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.445Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.452Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.457Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.466Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.472Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.472Z [info][Plex Scan]: Scan starting {"sessionId":"ccdcf879-1497-440b-89ee-f8d0cffa10ce"}
+2023-01-03T09:03:13.487Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.496Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.500Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.505Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.512Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.521Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.527Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.539Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.540Z [info][Plex Scan]: Scan starting {"sessionId":"cda48a72-9563-41da-961b-1cccfaba91b2"}
+2023-01-03T09:03:13.550Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.552Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.557Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.563Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.568Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.577Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.582Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.583Z [info][Plex Scan]: Scan starting {"sessionId":"c8ac2a19-f074-4c48-b0ea-bf5acff1c265"}
+2023-01-03T09:03:13.599Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.608Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.612Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.617Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.624Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.632Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.640Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.652Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.653Z [info][Plex Scan]: Scan starting {"sessionId":"4c996da8-57f0-4b96-88e5-4691a77d50cc"}
+2023-01-03T09:03:13.661Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.663Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.672Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.680Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.686Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.693Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.699Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.700Z [info][Plex Scan]: Scan starting {"sessionId":"490877f4-04cb-4307-bd50-209d8237f695"}
+2023-01-03T09:03:13.716Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.724Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.730Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.735Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.743Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.750Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.756Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.769Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.770Z [info][Plex Scan]: Scan starting {"sessionId":"43c885a4-cc92-472c-a00a-3d5d74630d6c"}
+2023-01-03T09:03:13.779Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.783Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.789Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.796Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.804Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.810Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.815Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.816Z [info][Plex Scan]: Scan starting {"sessionId":"8872cd50-c7af-4581-8025-4154b9aa7e48"}
+2023-01-03T09:03:13.830Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.840Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.844Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.849Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.856Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.863Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.869Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.880Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.881Z [info][Plex Scan]: Scan starting {"sessionId":"e0c007d1-5628-4009-a280-7215eaace5e9"}
+2023-01-03T09:03:13.891Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.892Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.898Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.904Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.910Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.916Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.921Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.922Z [info][Plex Scan]: Scan starting {"sessionId":"e4b685fd-aa06-4356-b197-6676e863c6c1"}
+2023-01-03T09:03:13.936Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:13.945Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.949Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:13.954Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.961Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.967Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.973Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.985Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:13.985Z [info][Plex Scan]: Scan starting {"sessionId":"7b74302b-b5c1-4797-a9fb-3186b9af32eb"}
+2023-01-03T09:03:13.995Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:13.997Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.029Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.029Z [info][Plex Scan]: Scan starting {"sessionId":"956cebf7-e1ff-4f2e-9f61-37fc5d05611e"}
+2023-01-03T09:03:14.045Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.052Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.055Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.060Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.067Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.074Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.080Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.091Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.092Z [info][Plex Scan]: Scan starting {"sessionId":"4b18158d-7d65-40e7-a957-b1f3caf5a4fa"}
+2023-01-03T09:03:14.097Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.099Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.102Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.107Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.110Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.114Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.118Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.119Z [info][Plex Scan]: Scan starting {"sessionId":"4ee12e36-42d6-4df1-8edd-bf16d5e621c8"}
+2023-01-03T09:03:14.131Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.136Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.139Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.142Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.146Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.151Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.155Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.164Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.165Z [info][Plex Scan]: Scan starting {"sessionId":"ce0f2c9e-32c8-4eef-8e68-6c32b6a668af"}
+2023-01-03T09:03:14.170Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.172Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.175Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.179Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.183Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.187Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.192Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.193Z [info][Plex Scan]: Scan starting {"sessionId":"9bb207cf-6ab2-4e4c-ac85-3f0b0909dec4"}
+2023-01-03T09:03:14.206Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.214Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.217Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.222Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.229Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.236Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.245Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.257Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.258Z [info][Plex Scan]: Scan starting {"sessionId":"25c58352-433e-4757-a217-d12ea8c525e9"}
+2023-01-03T09:03:14.265Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.267Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.272Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.279Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.284Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.291Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.298Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.299Z [info][Plex Scan]: Scan starting {"sessionId":"908d3028-7106-43e8-afd0-8a44b8e0286a"}
+2023-01-03T09:03:14.312Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.320Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.324Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.330Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.337Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.344Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.352Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.364Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.365Z [info][Plex Scan]: Scan starting {"sessionId":"d1a251ec-9b49-4336-9e23-c37890ad9153"}
+2023-01-03T09:03:14.372Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.374Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.379Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.386Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.391Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.400Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.405Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.406Z [info][Plex Scan]: Scan starting {"sessionId":"652e50f9-1fcf-4a81-8bf1-6f663f7335a9"}
+2023-01-03T09:03:14.419Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.427Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.430Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.435Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.443Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.452Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.458Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.469Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.470Z [info][Plex Scan]: Scan starting {"sessionId":"cd77296a-66ca-44b3-824c-f8d71cffd83a"}
+2023-01-03T09:03:14.478Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.480Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.485Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.492Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.497Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.505Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.511Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.512Z [info][Plex Scan]: Scan starting {"sessionId":"6b0c9118-8417-44a5-b62b-3859b0473f4b"}
+2023-01-03T09:03:14.525Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.532Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.536Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.541Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.548Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.557Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.563Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.574Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.575Z [info][Plex Scan]: Scan starting {"sessionId":"f59dcece-1153-46e1-b9b2-1b44676e42d0"}
+2023-01-03T09:03:14.582Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.584Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.589Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.596Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.601Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.609Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.615Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.615Z [info][Plex Scan]: Scan starting {"sessionId":"aad1962c-3843-4c1c-a040-274a7f737425"}
+2023-01-03T09:03:14.629Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.637Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.641Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.646Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.653Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.662Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.668Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.679Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.680Z [info][Plex Scan]: Scan starting {"sessionId":"888de8f9-31f9-40bb-a7df-6100cdfe5047"}
+2023-01-03T09:03:14.688Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.690Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.695Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.703Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.710Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.716Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.722Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.722Z [info][Plex Scan]: Scan starting {"sessionId":"0d30fe2b-c506-47db-98a4-161c37748152"}
+2023-01-03T09:03:14.736Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.743Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.746Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.752Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.761Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.768Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.775Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.788Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.789Z [info][Plex Scan]: Scan starting {"sessionId":"c8d5e8ee-57fc-460e-9f7f-115d3e72522b"}
+2023-01-03T09:03:14.796Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.798Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.803Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.810Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.818Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.825Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.831Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.832Z [info][Plex Scan]: Scan starting {"sessionId":"aa7f79c8-c529-4392-b6f1-2a6393a7baf4"}
+2023-01-03T09:03:14.842Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.847Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.851Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.859Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.866Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.870Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.874Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.883Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.883Z [info][Plex Scan]: Scan starting {"sessionId":"872793b4-0ea3-4d36-81e0-66c15a2547d2"}
+2023-01-03T09:03:14.889Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.890Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.893Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.900Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.904Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.909Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.913Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.914Z [info][Plex Scan]: Scan starting {"sessionId":"421000eb-0443-4273-8e88-2c4c256954a2"}
+2023-01-03T09:03:14.925Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:14.930Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.936Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.942Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.948Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.954Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.961Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.974Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:14.975Z [info][Plex Scan]: Scan starting {"sessionId":"aa19cc52-262b-4800-a79c-3a86261d9471"}
+2023-01-03T09:03:14.985Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.987Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:14.991Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:14.998Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.012Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.013Z [info][Plex Scan]: Scan starting {"sessionId":"819dc514-1eb9-41f8-b507-7dfd493bb273"}
+2023-01-03T09:03:15.024Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.035Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.039Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.044Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.049Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.054Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.062Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.063Z [info][Plex Scan]: Scan starting {"sessionId":"c867b004-721a-4445-9706-e42a503da03b"}
+2023-01-03T09:03:15.069Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.071Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.074Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.081Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.085Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.090Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.094Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.095Z [info][Plex Scan]: Scan starting {"sessionId":"c3fc875f-6041-4698-903a-d8dbfb9d54f2"}
+2023-01-03T09:03:15.111Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.119Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.125Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.131Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.142Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.149Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.155Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.166Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.167Z [info][Plex Scan]: Scan starting {"sessionId":"980e9cad-f58a-4e81-9036-17d022df0fd8"}
+2023-01-03T09:03:15.175Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.177Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.182Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.189Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.197Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.203Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.209Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.209Z [info][Plex Scan]: Scan starting {"sessionId":"b79ab667-6dfc-4aae-8969-8bba03bf8bca"}
+2023-01-03T09:03:15.222Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.230Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.234Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.239Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.247Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.254Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.260Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.271Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.271Z [info][Plex Scan]: Scan starting {"sessionId":"098dd1a9-eb07-4f32-8fcf-87cbef9b997e"}
+2023-01-03T09:03:15.279Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.280Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.285Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.292Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.299Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.305Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.311Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.311Z [info][Plex Scan]: Scan starting {"sessionId":"bc3d6f34-6599-45d1-a13e-60b829ef4c5b"}
+2023-01-03T09:03:15.325Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.332Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.335Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.340Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.348Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.355Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.362Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.373Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.374Z [info][Plex Scan]: Scan starting {"sessionId":"94361ada-174c-4cba-8bdc-e9197156e646"}
+2023-01-03T09:03:15.382Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.383Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.389Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.396Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.403Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.408Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.411Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.411Z [info][Plex Scan]: Scan starting {"sessionId":"b2d39619-c282-45d1-b0a3-2b919eace2b9"}
+2023-01-03T09:03:15.423Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.428Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.431Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.435Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.442Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.447Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.451Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.460Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.461Z [info][Plex Scan]: Scan starting {"sessionId":"ea2308b7-ad80-4436-847f-09426c0b2647"}
+2023-01-03T09:03:15.467Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.469Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.472Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.479Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.482Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.488Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.492Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.492Z [info][Plex Scan]: Scan starting {"sessionId":"3f7b573e-a6fc-4538-8e3a-2e08a934cbce"}
+2023-01-03T09:03:15.503Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.509Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.511Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.515Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.523Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.528Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.532Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.540Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.541Z [info][Plex Scan]: Scan starting {"sessionId":"71e00b65-ff74-4813-b8e4-26297f3d856c"}
+2023-01-03T09:03:15.547Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.548Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.552Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.560Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.564Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.569Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.575Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.575Z [info][Plex Scan]: Scan starting {"sessionId":"db9c5438-1667-42fd-bc90-adfd432d74e2"}
+2023-01-03T09:03:15.588Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.593Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.598Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.602Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.607Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.613Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.617Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.626Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.627Z [info][Plex Scan]: Scan starting {"sessionId":"89fb3288-2a8d-4289-9901-643e8e59b0a9"}
+2023-01-03T09:03:15.633Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.635Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.639Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.646Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.650Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.655Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.659Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.660Z [info][Plex Scan]: Scan starting {"sessionId":"dceea978-2a42-4bb9-9a93-3a248f5660d4"}
+2023-01-03T09:03:15.672Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.679Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.684Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.688Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.694Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.699Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.705Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.719Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.720Z [info][Plex Scan]: Scan starting {"sessionId":"9583f9c2-3e23-4366-a31a-317b17a0e52f"}
+2023-01-03T09:03:15.726Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.728Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.731Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.741Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.747Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.755Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.761Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.762Z [info][Plex Scan]: Scan starting {"sessionId":"405b1bde-35b6-4a67-8d7c-c4d23ea512ae"}
+2023-01-03T09:03:15.777Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.784Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.788Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.793Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.801Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.808Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.814Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.826Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.826Z [info][Plex Scan]: Scan starting {"sessionId":"e295dbba-2094-4929-8d9b-94d34a8d0a5f"}
+2023-01-03T09:03:15.834Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.836Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.841Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.848Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.855Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.872Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.884Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:15.885Z [info][Plex Scan]: Scan starting {"sessionId":"d7c5d06e-2c27-497d-8b7e-1dfda63655c8"}
+2023-01-03T09:03:15.911Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:15.931Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.943Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:15.971Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:15.986Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.039Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.083Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.084Z [info][Plex Scan]: Scan starting {"sessionId":"724ff135-20c9-4655-8168-4f866b9192e1"}
+2023-01-03T09:03:16.093Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.097Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.102Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.108Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.114Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.117Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.126Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.126Z [info][Plex Scan]: Scan starting {"sessionId":"6d7aa791-d1f7-4d33-aba0-a316b23ab3ce"}
+2023-01-03T09:03:16.132Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.136Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.140Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.147Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.153Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.159Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.164Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.176Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.176Z [info][Plex Scan]: Scan starting {"sessionId":"16647998-1246-4a38-a0ed-5c1efb167f56"}
+2023-01-03T09:03:16.186Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.188Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.191Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.197Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.201Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.206Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.210Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.211Z [info][Plex Scan]: Scan starting {"sessionId":"4fd6259d-179b-40f2-b187-9910e6dc642c"}
+2023-01-03T09:03:16.223Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.229Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.232Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.235Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.242Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.248Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.255Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.266Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.267Z [info][Plex Scan]: Scan starting {"sessionId":"01e9011c-7f0e-46c1-b4b1-83e02c29f6e2"}
+2023-01-03T09:03:16.275Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.277Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.282Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.289Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.294Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.300Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.306Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.307Z [info][Plex Scan]: Scan starting {"sessionId":"448f6edc-c8fe-4156-8370-dd025f2b2359"}
+2023-01-03T09:03:16.318Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.323Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.325Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.329Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.333Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.338Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.342Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.350Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.351Z [info][Plex Scan]: Scan starting {"sessionId":"08fb5f48-d1dc-4713-bb24-84f9928aee49"}
+2023-01-03T09:03:16.361Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.363Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.368Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.376Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.382Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.389Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.395Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.395Z [info][Plex Scan]: Scan starting {"sessionId":"8927c047-3253-4f0c-9d39-f3477bb20223"}
+2023-01-03T09:03:16.410Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.418Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.422Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.427Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.435Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.443Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.449Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.461Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.461Z [info][Plex Scan]: Scan starting {"sessionId":"7393f224-22c0-4d1e-99bc-90f6cca4c1e5"}
+2023-01-03T09:03:16.472Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.473Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.479Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.486Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.491Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.499Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.504Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.505Z [info][Plex Scan]: Scan starting {"sessionId":"cb9db7ea-72ce-4b59-871f-870c2d5cde4d"}
+2023-01-03T09:03:16.518Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.526Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.530Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.535Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.542Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.549Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.556Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.570Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.571Z [info][Plex Scan]: Scan starting {"sessionId":"a43004c2-9559-40ed-8945-360b2e3f12d9"}
+2023-01-03T09:03:16.578Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.580Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.585Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.592Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.597Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.604Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.610Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.610Z [info][Plex Scan]: Scan starting {"sessionId":"133f030c-39a3-4f4e-9802-d41349b45469"}
+2023-01-03T09:03:16.624Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.632Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.635Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.639Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.643Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.648Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.654Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.662Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.662Z [info][Plex Scan]: Scan starting {"sessionId":"0eb5139a-30a9-44a9-8143-3ef12523ed6d"}
+2023-01-03T09:03:16.668Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.669Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.673Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.677Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.681Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.686Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.690Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.690Z [info][Plex Scan]: Scan starting {"sessionId":"003c7334-b658-4a89-bcf5-e8863664f038"}
+2023-01-03T09:03:16.701Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.706Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.709Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.712Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.717Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.721Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.727Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.735Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.736Z [info][Plex Scan]: Scan starting {"sessionId":"68db7700-e7f7-47de-9006-f93a58831536"}
+2023-01-03T09:03:16.741Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.743Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.746Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.752Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.756Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.761Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.764Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.764Z [info][Plex Scan]: Scan starting {"sessionId":"ee0aaf70-1e45-4ff7-ad30-74911eced655"}
+2023-01-03T09:03:16.774Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.778Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.781Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.784Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.790Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.794Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.801Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.809Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.809Z [info][Plex Scan]: Scan starting {"sessionId":"9c31027a-2c30-42e6-aa99-52e636e4793a"}
+2023-01-03T09:03:16.815Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.816Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.820Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.825Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.828Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.832Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.835Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.836Z [info][Plex Scan]: Scan starting {"sessionId":"3be080f2-99d5-47a8-bd75-80cbac0285a3"}
+2023-01-03T09:03:16.846Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.851Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.854Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.858Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.862Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.867Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.874Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.882Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.882Z [info][Plex Scan]: Scan starting {"sessionId":"048a03f7-87a2-4b0f-8c6a-f7bb789baa31"}
+2023-01-03T09:03:16.888Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.890Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.893Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.897Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.901Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.905Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.908Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.909Z [info][Plex Scan]: Scan starting {"sessionId":"18f42a74-d694-4f6f-a135-a3e08c7687ba"}
+2023-01-03T09:03:16.918Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.924Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.926Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.929Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.934Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.939Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.946Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.954Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.955Z [info][Plex Scan]: Scan starting {"sessionId":"04dc708a-4baa-472b-bbe1-2b95e7654d43"}
+2023-01-03T09:03:16.960Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.962Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:16.965Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.970Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.974Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.978Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:16.981Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:16.982Z [info][Plex Scan]: Scan starting {"sessionId":"0ec53a0e-0576-4b8d-972d-ac8fa1fb8f23"}
+2023-01-03T09:03:16.993Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:16.998Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.002Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.031Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.032Z [info][Plex Scan]: Scan starting {"sessionId":"1fbdf802-e1d9-424b-99a6-4a76f4172fbf"}
+2023-01-03T09:03:17.038Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.039Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.042Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.046Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.049Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.054Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.057Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.058Z [info][Plex Scan]: Scan starting {"sessionId":"936acc46-7fe4-4c9c-ad44-11bdf93e49f7"}
+2023-01-03T09:03:17.068Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.073Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.076Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.079Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.083Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.090Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.094Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.102Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.103Z [info][Plex Scan]: Scan starting {"sessionId":"37d009d9-aa75-4885-9fee-09ce0321ccc1"}
+2023-01-03T09:03:17.108Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.110Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.113Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.117Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.121Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.125Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.128Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.128Z [info][Plex Scan]: Scan starting {"sessionId":"7c2e3c9b-b9a3-4e58-abf3-bb5d884d578a"}
+2023-01-03T09:03:17.139Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.144Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.146Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.149Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.154Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.160Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.164Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.172Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.173Z [info][Plex Scan]: Scan starting {"sessionId":"3dfda9b4-0b25-4ad8-9a9c-ef699230540e"}
+2023-01-03T09:03:17.178Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.179Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.182Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.187Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.191Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.195Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.198Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.198Z [info][Plex Scan]: Scan starting {"sessionId":"f14f8583-80d9-4ea1-8117-a19894b41c55"}
+2023-01-03T09:03:17.208Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.213Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.216Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.220Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.227Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.232Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.236Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.245Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.245Z [info][Plex Scan]: Scan starting {"sessionId":"67170eff-5e58-47b6-956d-7f75820b7373"}
+2023-01-03T09:03:17.251Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.252Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.255Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.261Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.266Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.271Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.274Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.275Z [info][Plex Scan]: Scan starting {"sessionId":"671aca38-84ed-4f1d-af99-905c0da34500"}
+2023-01-03T09:03:17.284Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.289Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.291Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.294Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.301Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.305Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.309Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.317Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.317Z [info][Plex Scan]: Scan starting {"sessionId":"fac5414a-1631-4e87-bfbf-8a3c10ae196c"}
+2023-01-03T09:03:17.323Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.324Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.327Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.331Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.334Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.339Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.342Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.343Z [info][Plex Scan]: Scan starting {"sessionId":"7e00b2b3-a5d2-4c2e-96a5-2401e44bf44e"}
+2023-01-03T09:03:17.353Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.359Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.363Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.366Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.371Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.375Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.378Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.386Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.386Z [info][Plex Scan]: Scan starting {"sessionId":"42b0951d-410b-4843-a208-cbf400a83f9d"}
+2023-01-03T09:03:17.391Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.393Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.396Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.400Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.405Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.409Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.413Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.413Z [info][Plex Scan]: Scan starting {"sessionId":"ed2f9bf1-89f4-4878-86d1-15697c2e85b7"}
+2023-01-03T09:03:17.425Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.432Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.436Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.441Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.449Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.455Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.459Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.467Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.467Z [info][Plex Scan]: Scan starting {"sessionId":"68c8f288-37a2-4455-8526-0d9b3fa64e71"}
+2023-01-03T09:03:17.474Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.475Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.480Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.487Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.491Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.496Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.499Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.500Z [info][Plex Scan]: Scan starting {"sessionId":"a875911b-382d-4950-ae76-c1b9528326d1"}
+2023-01-03T09:03:17.509Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.515Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.518Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.521Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.526Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.530Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.534Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.541Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.542Z [info][Plex Scan]: Scan starting {"sessionId":"9da37a46-ad0e-44b3-a7ba-83a6088562e1"}
+2023-01-03T09:03:17.547Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.548Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.552Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.559Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.562Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.569Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.573Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.573Z [info][Plex Scan]: Scan starting {"sessionId":"612be413-dc12-429f-84e9-0fbe2d51ca49"}
+2023-01-03T09:03:17.584Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.592Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.595Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.598Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.602Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.607Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.610Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.619Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.620Z [info][Plex Scan]: Scan starting {"sessionId":"954261b5-6e4b-4881-9e8c-dad9f35e2bcb"}
+2023-01-03T09:03:17.626Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.628Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.631Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.636Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.640Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.644Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.647Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.648Z [info][Plex Scan]: Scan starting {"sessionId":"e5807ba4-b970-47d0-8de2-7acd80384a7e"}
+2023-01-03T09:03:17.659Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.664Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.667Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.670Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.675Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.680Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.684Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.693Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.693Z [info][Plex Scan]: Scan starting {"sessionId":"e82dc792-6e92-4543-9b1a-eb1a461d4d86"}
+2023-01-03T09:03:17.698Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.700Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.704Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.708Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.711Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.715Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.720Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.720Z [info][Plex Scan]: Scan starting {"sessionId":"5b93b42d-cab9-4c05-80bb-279ad9da9b45"}
+2023-01-03T09:03:17.732Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.738Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.741Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.745Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.749Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.755Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.759Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.767Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.768Z [info][Plex Scan]: Scan starting {"sessionId":"4e25ed47-9753-4751-a704-470572298dbd"}
+2023-01-03T09:03:17.774Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.775Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.779Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.783Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.789Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.794Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.799Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.800Z [info][Plex Scan]: Scan starting {"sessionId":"86027abf-33d5-477b-a453-da462c4cc932"}
+2023-01-03T09:03:17.811Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.816Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.819Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.823Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.828Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.834Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.841Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.850Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.850Z [info][Plex Scan]: Scan starting {"sessionId":"bdfef203-cb2d-47f0-aedc-56f2df120e87"}
+2023-01-03T09:03:17.856Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.857Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.860Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.864Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.867Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.874Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.877Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.878Z [info][Plex Scan]: Scan starting {"sessionId":"fcad4140-495a-4cac-9e20-db370d9a204c"}
+2023-01-03T09:03:17.887Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.892Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.894Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.897Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.901Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.907Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.911Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.918Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.919Z [info][Plex Scan]: Scan starting {"sessionId":"ad1ac279-32ce-4e54-bb40-16ff0a60f9e9"}
+2023-01-03T09:03:17.924Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.925Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.929Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.933Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.936Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.943Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.947Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.947Z [info][Plex Scan]: Scan starting {"sessionId":"9de47fb0-58a5-4aac-b670-fd588c552a26"}
+2023-01-03T09:03:17.956Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:17.961Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.963Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.967Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.971Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.975Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.979Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.987Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:17.988Z [info][Plex Scan]: Scan starting {"sessionId":"90cd194e-c1ae-49ba-a077-e5d90162f5f0"}
+2023-01-03T09:03:17.992Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:17.993Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:17.996Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.019Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.019Z [info][Plex Scan]: Scan starting {"sessionId":"5fb32364-0e41-4957-a895-9fe075c15e67"}
+2023-01-03T09:03:18.029Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.035Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.038Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.046Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.050Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.054Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.062Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.062Z [info][Plex Scan]: Scan starting {"sessionId":"a295a807-927f-44ec-aa98-c941e90cbf5e"}
+2023-01-03T09:03:18.067Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.068Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.071Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.075Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.080Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.084Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.087Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.088Z [info][Plex Scan]: Scan starting {"sessionId":"a95d6833-9ebc-4ac5-926e-c5cf88832557"}
+2023-01-03T09:03:18.097Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.102Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.104Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.107Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.112Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.116Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.120Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.128Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.129Z [info][Plex Scan]: Scan starting {"sessionId":"6a403d3e-8bb3-42dd-b291-f79845ed445d"}
+2023-01-03T09:03:18.133Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.134Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.137Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.143Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.146Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.150Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.153Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.153Z [info][Plex Scan]: Scan starting {"sessionId":"28cc7e0a-ea6f-4a42-969d-cf7a8f4418d2"}
+2023-01-03T09:03:18.163Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.168Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.170Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.173Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.178Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.182Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.185Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.193Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.194Z [info][Plex Scan]: Scan starting {"sessionId":"e931c8a6-da35-4561-b80b-6e3bd44134be"}
+2023-01-03T09:03:18.199Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.200Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.203Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.209Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.212Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.216Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.220Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.221Z [info][Plex Scan]: Scan starting {"sessionId":"d21458c6-466c-4bea-b533-8d60322fbd9e"}
+2023-01-03T09:03:18.231Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.240Z [info][Jobs]: Starting scheduled job: Download Sync Reset 
+2023-01-03T09:03:18.242Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.246Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.251Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.258Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.262Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.270Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.276Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.277Z [info][Plex Scan]: Scan starting {"sessionId":"246e1c4d-3bd4-4c1b-8ffd-96a61935fdc8"}
+2023-01-03T09:03:18.280Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.283Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.287Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.293Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.297Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.303Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.308Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.309Z [info][Plex Scan]: Scan starting {"sessionId":"56fc246b-0805-45ce-a463-d491545f17d2"}
+2023-01-03T09:03:18.320Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.327Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.330Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.335Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.339Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.344Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.348Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.359Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.359Z [info][Plex Scan]: Scan starting {"sessionId":"ed3fecab-7c54-4793-93b7-0c00655a32d1"}
+2023-01-03T09:03:18.365Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.366Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.370Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.375Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.378Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.382Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.386Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.386Z [info][Plex Scan]: Scan starting {"sessionId":"e3f02efb-a9a6-4ce8-ba90-d13a8d67ab57"}
+2023-01-03T09:03:18.397Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.403Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.406Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.409Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.413Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.417Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.421Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.430Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.430Z [info][Plex Scan]: Scan starting {"sessionId":"474311fd-9f7b-45f0-8c87-e86f218c3df6"}
+2023-01-03T09:03:18.437Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.438Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.442Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.447Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.450Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.454Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.457Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.458Z [info][Plex Scan]: Scan starting {"sessionId":"e7ba2802-b1ce-4417-85ab-5ddfa748720a"}
+2023-01-03T09:03:18.468Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.473Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.476Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.478Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.482Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.487Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.490Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.499Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.500Z [info][Plex Scan]: Scan starting {"sessionId":"5cb35d55-2b7f-498d-8cfd-31d933d22c7c"}
+2023-01-03T09:03:18.505Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.506Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.509Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.513Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.516Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.520Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.523Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.523Z [info][Plex Scan]: Scan starting {"sessionId":"b33e6dd2-3dc2-4f00-8f5b-28a26d9ccdaa"}
+2023-01-03T09:03:18.532Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.538Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.540Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.543Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.547Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.552Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.555Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.565Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.566Z [info][Plex Scan]: Scan starting {"sessionId":"66f6f930-f916-4db4-afad-1844232121c2"}
+2023-01-03T09:03:18.573Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.574Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.578Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.582Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.586Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.591Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.594Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.594Z [info][Plex Scan]: Scan starting {"sessionId":"82a11f9f-cc41-4166-b523-e7910691eb98"}
+2023-01-03T09:03:18.603Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.608Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.610Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.613Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.617Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.622Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.628Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.635Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.635Z [info][Plex Scan]: Scan starting {"sessionId":"b4e22ce2-dc74-4a1c-8691-a8d4d498ba5f"}
+2023-01-03T09:03:18.641Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.642Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.645Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.649Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.653Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.657Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.660Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.660Z [info][Plex Scan]: Scan starting {"sessionId":"af2a945c-0f58-4454-9031-5634cd46eae8"}
+2023-01-03T09:03:18.670Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.676Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.678Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.681Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.686Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.690Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.695Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.704Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.704Z [info][Plex Scan]: Scan starting {"sessionId":"791df8d6-0343-49aa-a73a-ad0b3d7e8ad4"}
+2023-01-03T09:03:18.709Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.710Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.713Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.717Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.720Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.724Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.726Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.727Z [info][Plex Scan]: Scan starting {"sessionId":"7186245e-3d7f-4278-99b5-000aeaaf7849"}
+2023-01-03T09:03:18.736Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.741Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.744Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.747Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.751Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.758Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.761Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.768Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.769Z [info][Plex Scan]: Scan starting {"sessionId":"0c7a1910-bb4b-4e6f-83d4-5dd28910b7e3"}
+2023-01-03T09:03:18.773Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.774Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.777Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.781Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.784Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.788Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.791Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.791Z [info][Plex Scan]: Scan starting {"sessionId":"602081ee-a941-4897-853c-0ada0ba0b090"}
+2023-01-03T09:03:18.800Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.805Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.807Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.810Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.814Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.820Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.825Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.832Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.832Z [info][Plex Scan]: Scan starting {"sessionId":"442b7903-b629-45d3-ac92-e36cf84b6a8d"}
+2023-01-03T09:03:18.837Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.838Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.841Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.845Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.848Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.852Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.857Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.857Z [info][Plex Scan]: Scan starting {"sessionId":"89aa06d1-c235-40d6-a383-2ea7582d3194"}
+2023-01-03T09:03:18.866Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.871Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.873Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.876Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.880Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.886Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.891Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.898Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.899Z [info][Plex Scan]: Scan starting {"sessionId":"c1ac6114-31ee-4248-ab77-392ce1383c6e"}
+2023-01-03T09:03:18.905Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.906Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.910Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.914Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.919Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.925Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.929Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.930Z [info][Plex Scan]: Scan starting {"sessionId":"1248e768-878a-4075-a7f8-893e84983e24"}
+2023-01-03T09:03:18.940Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:18.947Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.949Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.954Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.959Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.966Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.971Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.979Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:18.980Z [info][Plex Scan]: Scan starting {"sessionId":"8923e473-796c-4f1e-8da9-777127b0780c"}
+2023-01-03T09:03:18.986Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:18.988Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:18.993Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.016Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.016Z [info][Plex Scan]: Scan starting {"sessionId":"30274a06-aeb7-4019-8369-3d52c153c161"}
+2023-01-03T09:03:19.033Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.040Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.044Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.047Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.056Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.062Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.067Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.078Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.079Z [info][Plex Scan]: Scan starting {"sessionId":"94d0733d-c915-4d6a-996d-43b0b09f0195"}
+2023-01-03T09:03:19.086Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.087Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.090Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.096Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.099Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.104Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.108Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.109Z [info][Plex Scan]: Scan starting {"sessionId":"e5589332-981c-48a0-b2f7-0c78bf322db9"}
+2023-01-03T09:03:19.121Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.132Z [info][Jobs]: Starting scheduled job: Plex Full Library Scan 
+2023-01-03T09:03:19.133Z [info][Plex Scan]: Scan starting {"sessionId":"f8b41a82-0738-4a99-93ce-afa86634a02b"}
+2023-01-03T09:03:19.139Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.144Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.149Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.156Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.161Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.171Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.176Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.177Z [info][Plex Scan]: Scan starting {"sessionId":"100c69f0-e7e0-4b76-9b13-b264b1932f49"}
+2023-01-03T09:03:19.181Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.190Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.195Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.199Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.202Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.206Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.212Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.216Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.216Z [info][Plex Scan]: Scan starting {"sessionId":"68b2c5f8-bcd3-4e6b-a767-f6d3259644be"}
+2023-01-03T09:03:19.231Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.244Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.249Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.255Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.265Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.272Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.278Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.292Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.293Z [info][Plex Scan]: Scan starting {"sessionId":"e94c6b51-a617-4661-b6a5-43648aaa2be9"}
+2023-01-03T09:03:19.301Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.303Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.308Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.317Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.324Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.328Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.332Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.332Z [info][Plex Scan]: Scan starting {"sessionId":"0145911b-2314-4da5-a3fe-fe137e6c16fd"}
+2023-01-03T09:03:19.346Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.352Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.355Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.359Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.364Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.371Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.376Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.386Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.387Z [info][Plex Scan]: Scan starting {"sessionId":"af0e784e-6af2-45e7-94fd-a2391e091ba9"}
+2023-01-03T09:03:19.393Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.394Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.398Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.405Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.410Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.415Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.421Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.422Z [info][Plex Scan]: Scan starting {"sessionId":"0f9b3a9b-cced-4cc4-a154-78cb4628ea17"}
+2023-01-03T09:03:19.442Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.450Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.454Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.460Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.467Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.475Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.481Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.494Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.495Z [info][Plex Scan]: Scan starting {"sessionId":"90824873-d101-4698-b9a2-4b1ff84ea292"}
+2023-01-03T09:03:19.503Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.505Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.511Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.518Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.524Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.531Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.536Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.537Z [info][Plex Scan]: Scan starting {"sessionId":"2bd15773-0621-4ca0-babf-d8c69e966d38"}
+2023-01-03T09:03:19.550Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.560Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.564Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.569Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.574Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.581Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.586Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.595Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.596Z [info][Plex Scan]: Scan starting {"sessionId":"335970a9-2022-498a-a4a4-6535b31c5c11"}
+2023-01-03T09:03:19.602Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.604Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.607Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.612Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.616Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.623Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.626Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.626Z [info][Plex Scan]: Scan starting {"sessionId":"f78ac6c3-44a7-4d6b-8f73-58e15b7ce4d5"}
+2023-01-03T09:03:19.636Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.640Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.643Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.646Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.650Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.654Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.658Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.666Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.666Z [info][Plex Scan]: Scan starting {"sessionId":"1301d18b-a178-4ceb-9f11-1b12b9275a91"}
+2023-01-03T09:03:19.671Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.673Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.676Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.680Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.683Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.689Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.692Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:03:19.692Z [info][Plex Scan]: Scan starting {"sessionId":"9af4638b-8e8c-4e6d-b463-2ba5beecc602"}
+2023-01-03T09:03:19.703Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:03:19.713Z [info][Jobs]: Starting scheduled job: Radarr Scan 
+2023-01-03T09:03:19.715Z [info][Radarr Scan]: Scan starting {"sessionId":"b32bbca0-f1c8-4172-ba0e-3709e58b4be4"}
+2023-01-03T09:03:19.716Z [debug][Radarr Scan]: Sync not enabled. Skipping Radarr server: radarr 
+2023-01-03T09:03:19.716Z [info][Radarr Scan]: Radarr scan complete 
+2023-01-03T09:03:19.719Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:03:19.722Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.726Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.730Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:03:19.737Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:04:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:05:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:05:00.018Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:05:00.020Z [info][Plex Scan]: Scan starting {"sessionId":"ec32dfa4-18b8-4a9a-82ea-801fe3c7c325"}
+2023-01-03T09:05:00.046Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:06:28.154Z [info]: Commit Tag: v1.31.0 
+2023-01-03T09:06:30.909Z [info]: Starting Overseerr version 1.31.0 
+2023-01-03T09:06:37.496Z [info][Notifications]: Registered notification agents 
+2023-01-03T09:06:37.703Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-03T09:06:38.275Z [info][Server]: Server ready on port 5055 
+2023-01-03T09:07:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:08:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:12:13.218Z [info]: Commit Tag: v1.31.0 
+2023-01-03T09:12:16.063Z [info]: Starting Overseerr version 1.31.0 
+2023-01-03T09:12:22.420Z [info][Notifications]: Registered notification agents 
+2023-01-03T09:12:22.557Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-03T09:12:23.415Z [info][Server]: Server ready on port 5055 
+2023-01-03T09:13:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:14:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:15:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:15:00.043Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:15:00.050Z [info][Plex Scan]: Scan starting {"sessionId":"87cf64f1-8476-4586-94b9-25187860b093"}
+2023-01-03T09:15:00.375Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:16:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:17:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:18:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:19:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:20:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:20:00.026Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:20:00.029Z [info][Plex Scan]: Scan starting {"sessionId":"64818603-9952-42a4-9a0d-d129fa323f30"}
+2023-01-03T09:20:00.050Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:20:00.329Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:21:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:22:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:23:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:24:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:25:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:25:00.024Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:25:00.026Z [info][Plex Scan]: Scan starting {"sessionId":"5b6c7a3a-db0b-43ba-8832-3ed26c9f4aa2"}
+2023-01-03T09:25:00.060Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:26:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:27:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:28:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:29:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:30:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:30:00.027Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:30:00.028Z [info][Plex Scan]: Scan starting {"sessionId":"67e3685e-2733-4246-a462-1c599d0d818c"}
+2023-01-03T09:30:00.042Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:30:00.063Z [info][Jobs]: Starting scheduled job: Sonarr Scan 
+2023-01-03T09:30:00.065Z [info][Sonarr Scan]: Scan starting {"sessionId":"7187272e-240f-4852-b6aa-803eadb129be"}
+2023-01-03T09:30:00.066Z [debug][Sonarr Scan]: Sync not enabled. Skipping Sonarr server: sonarr 
+2023-01-03T09:30:00.068Z [info][Sonarr Scan]: Sonarr scan complete 
+2023-01-03T09:30:00.244Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:31:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:32:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:32:04.702Z [info][Media Request]: Request has an override server: radarr {"requestId":9,"mediaId":9}
+2023-01-03T09:32:04.766Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Troll (2022)"}
+2023-01-03T09:32:04.788Z [info][Media Request]: Sent request to Radarr {"requestId":9,"mediaId":9}
+2023-01-03T09:32:07.181Z [info][Radarr]: Radarr accepted request 
+2023-01-03T09:32:07.183Z [debug][Radarr]: Radarr add details {"movie":{"title":"Troll","originalTitle":"Troll","originalLanguage":{"id":15,"name":"Norwegian"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"troll","sizeOnDisk":0,"status":"released","overview":"Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?","digitalRelease":"2022-12-01T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/7/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/9z4jRr43JdtU66P0iy8h18OyLql.jpg"},{"coverType":"fanart","url":"/MediaCover/7/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/53BC9F2tpZnsGno2cLhzvGprDYS.jpg"}],"website":"https://www.netflix.com/title/81245455/","year":2022,"hasFile":false,"youTubeTrailerId":"AiohkY_XQYQ","studio":"Motion Blur","path":"/movies/Troll (2022)","qualityProfileId":1,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/movies/Troll (2022)","runtime":104,"cleanTitle":"troll","imdbId":"tt11116912","tmdbId":736526,"titleSlug":"736526","certification":"PG-13","genres":["Fantasy","Action","Adventure"],"tags":[],"added":"2023-01-03T09:32:06Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":32938,"value":5.8,"type":"user"},"tmdb":{"votes":878,"value":6.671,"type":"user"},"metacritic":{"votes":0,"value":62,"type":"user"},"rottenTomatoes":{"votes":0,"value":90,"type":"user"}},"popularity":2613.004,"id":7}}
+2023-01-03T09:32:31.152Z [info][Media Request]: Request has an override server: sonarr {"requestId":10,"mediaId":10}
+2023-01-03T09:32:31.199Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Alice in Borderland (2020)"}
+2023-01-03T09:32:31.221Z [info][Media Request]: Sent request to Sonarr {"requestId":10,"mediaId":10}
+2023-01-03T09:32:40.398Z [info][Sonarr]: Sonarr accepted request 
+2023-01-03T09:32:40.399Z [debug][Sonarr]: Sonarr add details {"movie":{"title":"Alice in Borderland (2020)","alternateTitles":[{"title":"Alice in Borderland","seasonNumber":-1}],"sortTitle":"alice in borderland 2020","status":"ended","ended":true,"overview":"An aimless gamer and his two friends find themselves in a parallel Tokyo, where they're forced to compete in a series of sadistic games to survive.","previousAiring":"2020-12-10T20:00:00Z","network":"Netflix","airTime":"15:00","images":[{"coverType":"banner","url":"/MediaCover/6/banner.jpg?lastWrite=638083351530823297","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/banners/5fdfc72ad2a10.jpg"},{"coverType":"poster","url":"/MediaCover/6/poster.jpg?lastWrite=638083351532863323","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/posters/5fbcea9096847.jpg"},{"coverType":"fanart","url":"/MediaCover/6/fanart.jpg?lastWrite=638083351534143338","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/backgrounds/5fafff86f0364.jpg"}],"seasons":[{"seasonNumber":1,"monitored":true,"statistics":{"previousAiring":"2020-12-10T20:00:00Z","episodeFileCount":0,"episodeCount":8,"totalEpisodeCount":8,"sizeOnDisk":0,"releaseGroups":[],"percentOfEpisodes":0}},{"seasonNumber":2,"monitored":false,"statistics":{"episodeFileCount":0,"episodeCount":0,"totalEpisodeCount":8,"sizeOnDisk":0,"releaseGroups":[],"percentOfEpisodes":0}}],"year":2020,"path":"/downloads/Alice in Borderland (2020)","qualityProfileId":1,"languageProfileId":1,"seasonFolder":false,"monitored":true,"useSceneNumbering":false,"runtime":49,"tvdbId":376472,"tvRageId":0,"tvMazeId":50036,"firstAired":"2020-12-10T00:00:00Z","seriesType":"standard","cleanTitle":"aliceinborderland2020","imdbId":"tt10795658","titleSlug":"alice-in-borderland-2020","rootFolderPath":"/downloads/","certification":"TV-MA","genres":["Action","Adventure","Science Fiction","Thriller"],"tags":[],"added":"2023-01-03T09:32:31.889941Z","ratings":{"votes":0,"value":0},"statistics":{"seasonCount":2,"episodeFileCount":0,"episodeCount":8,"totalEpisodeCount":16,"sizeOnDisk":0,"releaseGroups":[],"percentOfEpisodes":0},"id":6}}
+2023-01-03T09:33:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:34:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:35:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:35:00.031Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:35:00.034Z [info][Plex Scan]: Scan starting {"sessionId":"0ff7d038-67a9-488f-be65-22e861e79a93"}
+2023-01-03T09:35:00.090Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:36:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:37:00.649Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:38:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:39:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:40:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:40:00.032Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:40:00.034Z [info][Plex Scan]: Scan starting {"sessionId":"81d7e04c-0302-4f7c-9dd7-a89abbc9e5bd"}
+2023-01-03T09:40:00.055Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:40:00.362Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:41:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:42:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:43:41.900Z [info]: Commit Tag: v1.31.0 
+2023-01-03T09:43:45.251Z [info]: Starting Overseerr version 1.31.0 
+2023-01-03T09:43:56.232Z [info][Notifications]: Registered notification agents 
+2023-01-03T09:43:56.465Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-03T09:43:57.850Z [info][Server]: Server ready on port 5055 
+2023-01-03T09:44:00.229Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:45:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:45:00.033Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:45:00.037Z [info][Plex Scan]: Scan starting {"sessionId":"62b146c5-2bbd-45a2-b83a-6bc365e26560"}
+2023-01-03T09:45:00.601Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:46:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:47:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:48:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:49:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:50:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:50:00.025Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-03T09:50:00.027Z [info][Plex Scan]: Scan starting {"sessionId":"705dbe22-b602-40c5-b4f2-80af88fa9828"}
+2023-01-03T09:50:00.048Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-03T09:50:00.323Z [error][Plex Scan]: Scan interrupted {"errorMessage":"connect ECONNREFUSED 172.18.0.1:32400"}
+2023-01-03T09:51:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:52:40.056Z [info]: Commit Tag: v1.31.0 
+2023-01-03T09:52:43.256Z [info]: Starting Overseerr version 1.31.0 
+2023-01-03T09:52:53.058Z [info][Notifications]: Registered notification agents 
+2023-01-03T09:52:53.310Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-03T09:52:54.555Z [info][Server]: Server ready on port 5055 
+2023-01-03T09:53:00.060Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-03T09:53:10.338Z [warn][GitHub API]: Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version. {"errorMessage":"Request failed with status code 403"}
+2023-01-03T09:54:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
